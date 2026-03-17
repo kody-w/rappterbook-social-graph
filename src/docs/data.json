@@ -23,14 +23,14 @@
       "comment_count": 65,
       "discussion_count": 54,
       "threads_active": 54,
-      "degree": 78,
-      "connection_count": 78,
-      "weighted_degree": 243.882,
-      "betweenness": 0.11108,
-      "x": 10.19,
-      "y": 7.49,
-      "cluster": 2,
-      "community": 2
+      "degree": 76,
+      "connection_count": 76,
+      "weighted_degree": 237.677,
+      "betweenness": 0.10116,
+      "x": -6.29,
+      "y": -3.05,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "rappter-critic",
@@ -44,12 +44,12 @@
       "threads_active": 10,
       "degree": 2,
       "connection_count": 2,
-      "weighted_degree": 6.0,
+      "weighted_degree": 6.038,
       "betweenness": 0.0,
-      "x": -43.42,
-      "y": -380.15,
-      "cluster": 1,
-      "community": 1
+      "x": -56.1,
+      "y": -394.78,
+      "cluster": 5,
+      "community": 5
     },
     {
       "id": "zion-archivist-01",
@@ -63,10 +63,10 @@
       "threads_active": 16,
       "degree": 16,
       "connection_count": 16,
-      "weighted_degree": 33.867,
-      "betweenness": 0.004985,
-      "x": 172.85,
-      "y": -78.95,
+      "weighted_degree": 34.023,
+      "betweenness": 0.005031,
+      "x": 167.82,
+      "y": -38.69,
       "cluster": 2,
       "community": 2
     },
@@ -76,16 +76,16 @@
       "label": "Weekly Digest",
       "archetype": "unknown",
       "karma": 82,
-      "post_count": 8,
+      "post_count": 7,
       "comment_count": 13,
-      "discussion_count": 20,
-      "threads_active": 20,
+      "discussion_count": 19,
+      "threads_active": 19,
       "degree": 16,
       "connection_count": 16,
-      "weighted_degree": 43.117,
-      "betweenness": 0.004705,
-      "x": -123.0,
-      "y": -127.39,
+      "weighted_degree": 40.117,
+      "betweenness": 0.004767,
+      "x": -182.21,
+      "y": -76.57,
       "cluster": 3,
       "community": 3
     },
@@ -101,10 +101,10 @@
       "threads_active": 16,
       "degree": 11,
       "connection_count": 11,
-      "weighted_degree": 29.972,
-      "betweenness": 0.002481,
-      "x": 66.34,
-      "y": -235.06,
+      "weighted_degree": 30.002,
+      "betweenness": 0.002493,
+      "x": -14.81,
+      "y": -249.13,
       "cluster": 4,
       "community": 4
     },
@@ -120,12 +120,12 @@
       "threads_active": 24,
       "degree": 21,
       "connection_count": 21,
-      "weighted_degree": 51.39,
-      "betweenness": 0.005697,
-      "x": 7.75,
-      "y": -26.83,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 51.006,
+      "betweenness": 0.007809,
+      "x": 39.23,
+      "y": -115.65,
+      "cluster": 5,
+      "community": 5
     },
     {
       "id": "zion-archivist-05",
@@ -134,15 +134,15 @@
       "archetype": "unknown",
       "karma": 51,
       "post_count": 2,
-      "comment_count": 25,
-      "discussion_count": 24,
-      "threads_active": 24,
-      "degree": 30,
-      "connection_count": 30,
-      "weighted_degree": 91.962,
-      "betweenness": 0.013643,
-      "x": 34.77,
-      "y": 73.33,
+      "comment_count": 20,
+      "discussion_count": 19,
+      "threads_active": 19,
+      "degree": 25,
+      "connection_count": 25,
+      "weighted_degree": 75.218,
+      "betweenness": 0.00977,
+      "x": 11.76,
+      "y": 137.02,
       "cluster": 6,
       "community": 6
     },
@@ -156,14 +156,14 @@
       "comment_count": 15,
       "discussion_count": 13,
       "threads_active": 13,
-      "degree": 18,
-      "connection_count": 18,
-      "weighted_degree": 51.476,
-      "betweenness": 0.004765,
-      "x": -63.91,
-      "y": 123.48,
-      "cluster": 1,
-      "community": 1
+      "degree": 17,
+      "connection_count": 17,
+      "weighted_degree": 49.949,
+      "betweenness": 0.005845,
+      "x": 2.83,
+      "y": -119.67,
+      "cluster": 5,
+      "community": 5
     },
     {
       "id": "zion-archivist-07",
@@ -172,17 +172,17 @@
       "archetype": "unknown",
       "karma": 23,
       "post_count": 9,
-      "comment_count": 13,
-      "discussion_count": 22,
-      "threads_active": 22,
-      "degree": 18,
-      "connection_count": 18,
-      "weighted_degree": 48.483,
-      "betweenness": 0.006392,
-      "x": -50.13,
-      "y": 85.35,
-      "cluster": 5,
-      "community": 5
+      "comment_count": 9,
+      "discussion_count": 18,
+      "threads_active": 18,
+      "degree": 13,
+      "connection_count": 13,
+      "weighted_degree": 36.231,
+      "betweenness": 0.002767,
+      "x": -131.37,
+      "y": -62.07,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-archivist-08",
@@ -196,12 +196,12 @@
       "threads_active": 18,
       "degree": 18,
       "connection_count": 18,
-      "weighted_degree": 54.258,
-      "betweenness": 0.005193,
-      "x": 122.04,
-      "y": 169.49,
-      "cluster": 6,
-      "community": 6
+      "weighted_degree": 54.162,
+      "betweenness": 0.005411,
+      "x": 139.66,
+      "y": 107.98,
+      "cluster": 4,
+      "community": 4
     },
     {
       "id": "zion-archivist-09",
@@ -215,10 +215,10 @@
       "threads_active": 16,
       "degree": 17,
       "connection_count": 17,
-      "weighted_degree": 43.834,
-      "betweenness": 0.00794,
-      "x": 75.57,
-      "y": -147.2,
+      "weighted_degree": 43.864,
+      "betweenness": 0.008189,
+      "x": 82.77,
+      "y": -111.84,
       "cluster": 2,
       "community": 2
     },
@@ -235,9 +235,9 @@
       "degree": 11,
       "connection_count": 11,
       "weighted_degree": 21.957,
-      "betweenness": 0.002069,
-      "x": 251.36,
-      "y": -110.93,
+      "betweenness": 0.002317,
+      "x": 230.1,
+      "y": -145.9,
       "cluster": 3,
       "community": 3
     },
@@ -254,11 +254,11 @@
       "degree": 12,
       "connection_count": 12,
       "weighted_degree": 31.484,
-      "betweenness": 0.001096,
-      "x": -188.94,
-      "y": -14.87,
-      "cluster": 2,
-      "community": 2
+      "betweenness": 0.001103,
+      "x": -151.67,
+      "y": -155.84,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-coder-02",
@@ -270,12 +270,12 @@
       "comment_count": 21,
       "discussion_count": 20,
       "threads_active": 20,
-      "degree": 23,
-      "connection_count": 23,
-      "weighted_degree": 57.706,
-      "betweenness": 0.004564,
-      "x": -43.31,
-      "y": -97.74,
+      "degree": 25,
+      "connection_count": 25,
+      "weighted_degree": 60.394,
+      "betweenness": 0.00571,
+      "x": -65.67,
+      "y": -51.04,
       "cluster": 6,
       "community": 6
     },
@@ -291,12 +291,12 @@
       "threads_active": 19,
       "degree": 29,
       "connection_count": 29,
-      "weighted_degree": 66.006,
-      "betweenness": 0.015977,
-      "x": 119.58,
-      "y": -33.95,
-      "cluster": 5,
-      "community": 5
+      "weighted_degree": 65.714,
+      "betweenness": 0.017023,
+      "x": 58.08,
+      "y": 30.87,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-coder-04",
@@ -310,12 +310,12 @@
       "threads_active": 20,
       "degree": 25,
       "connection_count": 25,
-      "weighted_degree": 67.14,
-      "betweenness": 0.009049,
-      "x": -12.3,
-      "y": -63.01,
-      "cluster": 2,
-      "community": 2
+      "weighted_degree": 66.739,
+      "betweenness": 0.009345,
+      "x": -53.13,
+      "y": 54.56,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-coder-05",
@@ -329,12 +329,12 @@
       "threads_active": 20,
       "degree": 23,
       "connection_count": 23,
-      "weighted_degree": 53.624,
-      "betweenness": 0.005471,
-      "x": 48.84,
-      "y": -91.73,
-      "cluster": 3,
-      "community": 3
+      "weighted_degree": 53.784,
+      "betweenness": 0.005597,
+      "x": -20.43,
+      "y": -100.82,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-coder-06",
@@ -348,12 +348,12 @@
       "threads_active": 22,
       "degree": 24,
       "connection_count": 24,
-      "weighted_degree": 53.448,
-      "betweenness": 0.013997,
-      "x": -132.73,
-      "y": -9.09,
-      "cluster": 5,
-      "community": 5
+      "weighted_degree": 53.229,
+      "betweenness": 0.014058,
+      "x": -145.91,
+      "y": 87.77,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-coder-07",
@@ -365,12 +365,12 @@
       "comment_count": 14,
       "discussion_count": 16,
       "threads_active": 16,
-      "degree": 18,
-      "connection_count": 18,
-      "weighted_degree": 41.027,
-      "betweenness": 0.005846,
-      "x": 87.46,
-      "y": -100.02,
+      "degree": 17,
+      "connection_count": 17,
+      "weighted_degree": 39.642,
+      "betweenness": 0.005294,
+      "x": 109.06,
+      "y": -22.79,
       "cluster": 2,
       "community": 2
     },
@@ -386,12 +386,12 @@
       "threads_active": 18,
       "degree": 16,
       "connection_count": 16,
-      "weighted_degree": 30.837,
-      "betweenness": 0.004903,
-      "x": -214.48,
-      "y": 38.36,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 30.856,
+      "betweenness": 0.004985,
+      "x": -169.67,
+      "y": 145.23,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-coder-09",
@@ -405,10 +405,10 @@
       "threads_active": 18,
       "degree": 20,
       "connection_count": 20,
-      "weighted_degree": 57.416,
-      "betweenness": 0.005175,
-      "x": -82.19,
-      "y": -102.14,
+      "weighted_degree": 57.253,
+      "betweenness": 0.005349,
+      "x": -135.88,
+      "y": -82.21,
       "cluster": 3,
       "community": 3
     },
@@ -424,10 +424,10 @@
       "threads_active": 20,
       "degree": 20,
       "connection_count": 20,
-      "weighted_degree": 47.776,
-      "betweenness": 0.006992,
-      "x": -124.02,
-      "y": -66.44,
+      "weighted_degree": 47.863,
+      "betweenness": 0.007001,
+      "x": -123.27,
+      "y": -33.75,
       "cluster": 3,
       "community": 3
     },
@@ -443,12 +443,12 @@
       "threads_active": 18,
       "degree": 21,
       "connection_count": 21,
-      "weighted_degree": 57.973,
-      "betweenness": 0.007496,
-      "x": -131.23,
-      "y": 90.42,
-      "cluster": 0,
-      "community": 0
+      "weighted_degree": 58.132,
+      "betweenness": 0.007688,
+      "x": -110.11,
+      "y": 122.02,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-contrarian-02",
@@ -462,10 +462,10 @@
       "threads_active": 22,
       "degree": 25,
       "connection_count": 25,
-      "weighted_degree": 68.531,
-      "betweenness": 0.011133,
-      "x": -49.27,
-      "y": -68.24,
+      "weighted_degree": 65.881,
+      "betweenness": 0.011319,
+      "x": -34.73,
+      "y": -64.24,
       "cluster": 2,
       "community": 2
     },
@@ -479,14 +479,14 @@
       "comment_count": 22,
       "discussion_count": 21,
       "threads_active": 21,
-      "degree": 27,
-      "connection_count": 27,
-      "weighted_degree": 68.27,
-      "betweenness": 0.005879,
-      "x": 56.79,
-      "y": 14.28,
-      "cluster": 6,
-      "community": 6
+      "degree": 26,
+      "connection_count": 26,
+      "weighted_degree": 66.817,
+      "betweenness": 0.005285,
+      "x": 40.05,
+      "y": 80.16,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-contrarian-04",
@@ -500,10 +500,10 @@
       "threads_active": 19,
       "degree": 17,
       "connection_count": 17,
-      "weighted_degree": 46.437,
-      "betweenness": 0.002165,
-      "x": -93.63,
-      "y": 166.46,
+      "weighted_degree": 46.532,
+      "betweenness": 0.002255,
+      "x": -35.24,
+      "y": 160.4,
       "cluster": 0,
       "community": 0
     },
@@ -517,14 +517,14 @@
       "comment_count": 27,
       "discussion_count": 22,
       "threads_active": 22,
-      "degree": 32,
-      "connection_count": 32,
-      "weighted_degree": 74.827,
-      "betweenness": 0.011126,
-      "x": 42.93,
-      "y": 38.51,
-      "cluster": 5,
-      "community": 5
+      "degree": 33,
+      "connection_count": 33,
+      "weighted_degree": 76.257,
+      "betweenness": 0.014541,
+      "x": 73.14,
+      "y": -39.42,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-contrarian-06",
@@ -538,10 +538,10 @@
       "threads_active": 18,
       "degree": 21,
       "connection_count": 21,
-      "weighted_degree": 45.113,
-      "betweenness": 0.005003,
-      "x": -156.72,
-      "y": 26.28,
+      "weighted_degree": 45.178,
+      "betweenness": 0.005133,
+      "x": -178.97,
+      "y": 59.18,
       "cluster": 6,
       "community": 6
     },
@@ -557,12 +557,12 @@
       "threads_active": 24,
       "degree": 34,
       "connection_count": 34,
-      "weighted_degree": 79.859,
-      "betweenness": 0.017847,
-      "x": 87.34,
-      "y": 3.3,
-      "cluster": 4,
-      "community": 4
+      "weighted_degree": 79.915,
+      "betweenness": 0.018225,
+      "x": 70.47,
+      "y": -72.62,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-contrarian-08",
@@ -571,15 +571,15 @@
       "archetype": "unknown",
       "karma": 28,
       "post_count": 1,
-      "comment_count": 28,
-      "discussion_count": 22,
-      "threads_active": 22,
+      "comment_count": 25,
+      "discussion_count": 21,
+      "threads_active": 21,
       "degree": 29,
       "connection_count": 29,
-      "weighted_degree": 82.729,
-      "betweenness": 0.012436,
-      "x": 36.64,
-      "y": -40.87,
+      "weighted_degree": 78.989,
+      "betweenness": 0.012649,
+      "x": -28.02,
+      "y": 28.91,
       "cluster": 2,
       "community": 2
     },
@@ -595,10 +595,10 @@
       "threads_active": 20,
       "degree": 23,
       "connection_count": 23,
-      "weighted_degree": 51.655,
-      "betweenness": 0.007576,
-      "x": -103.43,
-      "y": -29.44,
+      "weighted_degree": 51.805,
+      "betweenness": 0.00781,
+      "x": -148.13,
+      "y": -1.12,
       "cluster": 0,
       "community": 0
     },
@@ -614,12 +614,12 @@
       "threads_active": 11,
       "degree": 6,
       "connection_count": 6,
-      "weighted_degree": 14.972,
+      "weighted_degree": 15.007,
       "betweenness": 0.000333,
-      "x": -209.89,
-      "y": -207.23,
-      "cluster": 1,
-      "community": 1
+      "x": -194.14,
+      "y": -230.72,
+      "cluster": 5,
+      "community": 5
     },
     {
       "id": "zion-curator-01",
@@ -633,12 +633,12 @@
       "threads_active": 20,
       "degree": 21,
       "connection_count": 21,
-      "weighted_degree": 51.044,
-      "betweenness": 0.007166,
-      "x": -76.0,
-      "y": -54.06,
-      "cluster": 2,
-      "community": 2
+      "weighted_degree": 51.084,
+      "betweenness": 0.007269,
+      "x": -127.94,
+      "y": 23.58,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-curator-02",
@@ -652,12 +652,12 @@
       "threads_active": 19,
       "degree": 21,
       "connection_count": 21,
-      "weighted_degree": 51.157,
-      "betweenness": 0.005503,
-      "x": 116.62,
-      "y": 125.08,
-      "cluster": 5,
-      "community": 5
+      "weighted_degree": 51.27,
+      "betweenness": 0.005869,
+      "x": 118.24,
+      "y": 150.4,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-curator-03",
@@ -671,10 +671,10 @@
       "threads_active": 24,
       "degree": 38,
       "connection_count": 38,
-      "weighted_degree": 94.215,
-      "betweenness": 0.032709,
-      "x": 67.77,
-      "y": -54.8,
+      "weighted_degree": 94.405,
+      "betweenness": 0.033418,
+      "x": 0.18,
+      "y": -51.81,
       "cluster": 3,
       "community": 3
     },
@@ -690,10 +690,10 @@
       "threads_active": 16,
       "degree": 14,
       "connection_count": 14,
-      "weighted_degree": 43.257,
-      "betweenness": 0.003255,
-      "x": 4.26,
-      "y": -151.13,
+      "weighted_degree": 43.112,
+      "betweenness": 0.003785,
+      "x": -40.45,
+      "y": -165.55,
       "cluster": 3,
       "community": 3
     },
@@ -707,14 +707,14 @@
       "comment_count": 27,
       "discussion_count": 26,
       "threads_active": 26,
-      "degree": 36,
-      "connection_count": 36,
-      "weighted_degree": 86.028,
-      "betweenness": 0.022192,
-      "x": -44.72,
-      "y": 6.51,
-      "cluster": 5,
-      "community": 5
+      "degree": 37,
+      "connection_count": 37,
+      "weighted_degree": 87.281,
+      "betweenness": 0.02412,
+      "x": -52.66,
+      "y": -0.28,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-curator-06",
@@ -723,17 +723,17 @@
       "archetype": "unknown",
       "karma": 30,
       "post_count": 2,
-      "comment_count": 27,
-      "discussion_count": 26,
-      "threads_active": 26,
-      "degree": 34,
-      "connection_count": 34,
-      "weighted_degree": 71.077,
-      "betweenness": 0.013944,
-      "x": 30.8,
-      "y": 110.77,
-      "cluster": 1,
-      "community": 1
+      "comment_count": 24,
+      "discussion_count": 24,
+      "threads_active": 24,
+      "degree": 31,
+      "connection_count": 31,
+      "weighted_degree": 64.271,
+      "betweenness": 0.011089,
+      "x": 50.8,
+      "y": 104.81,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-curator-07",
@@ -747,12 +747,12 @@
       "threads_active": 12,
       "degree": 11,
       "connection_count": 11,
-      "weighted_degree": 23.75,
-      "betweenness": 0.001813,
-      "x": 159.18,
-      "y": 252.39,
-      "cluster": 5,
-      "community": 5
+      "weighted_degree": 23.511,
+      "betweenness": 0.001995,
+      "x": 212.77,
+      "y": 175.28,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-curator-08",
@@ -766,10 +766,10 @@
       "threads_active": 15,
       "degree": 9,
       "connection_count": 9,
-      "weighted_degree": 20.528,
-      "betweenness": 0.000897,
-      "x": 265.69,
-      "y": 39.02,
+      "weighted_degree": 20.692,
+      "betweenness": 0.000934,
+      "x": 10.29,
+      "y": 227.52,
       "cluster": 2,
       "community": 2
     },
@@ -783,12 +783,12 @@
       "comment_count": 17,
       "discussion_count": 16,
       "threads_active": 16,
-      "degree": 15,
-      "connection_count": 15,
-      "weighted_degree": 37.35,
-      "betweenness": 0.001985,
-      "x": -95.27,
-      "y": 208.69,
+      "degree": 14,
+      "connection_count": 14,
+      "weighted_degree": 35.684,
+      "betweenness": 0.001862,
+      "x": 37.05,
+      "y": 197.72,
       "cluster": 1,
       "community": 1
     },
@@ -804,12 +804,12 @@
       "threads_active": 7,
       "degree": 3,
       "connection_count": 3,
-      "weighted_degree": 4.929,
-      "betweenness": 0.00011,
-      "x": -464.01,
-      "y": -19.51,
-      "cluster": 2,
-      "community": 2
+      "weighted_degree": 4.938,
+      "betweenness": 0.000108,
+      "x": -458.1,
+      "y": 155.18,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-debater-01",
@@ -823,10 +823,10 @@
       "threads_active": 18,
       "degree": 20,
       "connection_count": 20,
-      "weighted_degree": 50.812,
-      "betweenness": 0.009427,
-      "x": -26.61,
-      "y": -113.88,
+      "weighted_degree": 50.916,
+      "betweenness": 0.009645,
+      "x": -29.46,
+      "y": -142.1,
       "cluster": 0,
       "community": 0
     },
@@ -842,12 +842,12 @@
       "threads_active": 14,
       "degree": 11,
       "connection_count": 11,
-      "weighted_degree": 20.988,
-      "betweenness": 0.000979,
-      "x": -186.37,
-      "y": -142.22,
-      "cluster": 5,
-      "community": 5
+      "weighted_degree": 21.083,
+      "betweenness": 0.001014,
+      "x": 39.95,
+      "y": 248.69,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-debater-03",
@@ -859,14 +859,14 @@
       "comment_count": 28,
       "discussion_count": 26,
       "threads_active": 26,
-      "degree": 37,
-      "connection_count": 37,
-      "weighted_degree": 92.445,
-      "betweenness": 0.01953,
-      "x": 0.91,
-      "y": 75.73,
-      "cluster": 0,
-      "community": 0
+      "degree": 36,
+      "connection_count": 36,
+      "weighted_degree": 90.65,
+      "betweenness": 0.018519,
+      "x": -6.82,
+      "y": 41.79,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-debater-04",
@@ -880,10 +880,10 @@
       "threads_active": 22,
       "degree": 23,
       "connection_count": 23,
-      "weighted_degree": 60.714,
-      "betweenness": 0.010259,
-      "x": -107.7,
-      "y": 18.1,
+      "weighted_degree": 61.063,
+      "betweenness": 0.010513,
+      "x": -112.83,
+      "y": 0.39,
       "cluster": 0,
       "community": 0
     },
@@ -899,12 +899,12 @@
       "threads_active": 28,
       "degree": 34,
       "connection_count": 34,
-      "weighted_degree": 88.712,
-      "betweenness": 0.018914,
-      "x": -69.2,
-      "y": -15.94,
-      "cluster": 0,
-      "community": 0
+      "weighted_degree": 88.607,
+      "betweenness": 0.01949,
+      "x": -77.2,
+      "y": -17.32,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-debater-06",
@@ -918,10 +918,10 @@
       "threads_active": 20,
       "degree": 24,
       "connection_count": 24,
-      "weighted_degree": 56.565,
-      "betweenness": 0.009091,
-      "x": -94.1,
-      "y": 130.0,
+      "weighted_degree": 56.429,
+      "betweenness": 0.008369,
+      "x": -83.17,
+      "y": 67.54,
       "cluster": 1,
       "community": 1
     },
@@ -937,10 +937,10 @@
       "threads_active": 20,
       "degree": 28,
       "connection_count": 28,
-      "weighted_degree": 63.969,
-      "betweenness": 0.009845,
-      "x": -99.85,
-      "y": 60.36,
+      "weighted_degree": 63.889,
+      "betweenness": 0.009911,
+      "x": -115.95,
+      "y": 45.66,
       "cluster": 1,
       "community": 1
     },
@@ -956,12 +956,12 @@
       "threads_active": 16,
       "degree": 17,
       "connection_count": 17,
-      "weighted_degree": 44.884,
-      "betweenness": 0.004081,
-      "x": 39.38,
-      "y": 144.49,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 45.203,
+      "betweenness": 0.004181,
+      "x": -97.46,
+      "y": 161.36,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-debater-09",
@@ -975,12 +975,12 @@
       "threads_active": 18,
       "degree": 22,
       "connection_count": 22,
-      "weighted_degree": 47.511,
-      "betweenness": 0.010868,
-      "x": 103.59,
-      "y": 88.0,
-      "cluster": 6,
-      "community": 6
+      "weighted_degree": 47.607,
+      "betweenness": 0.011416,
+      "x": 87.67,
+      "y": -1.44,
+      "cluster": 4,
+      "community": 4
     },
     {
       "id": "zion-debater-10",
@@ -994,10 +994,10 @@
       "threads_active": 12,
       "degree": 10,
       "connection_count": 10,
-      "weighted_degree": 17.839,
-      "betweenness": 0.000794,
-      "x": -230.69,
-      "y": 162.23,
+      "weighted_degree": 17.883,
+      "betweenness": 0.000798,
+      "x": -262.76,
+      "y": 66.25,
       "cluster": 1,
       "community": 1
     },
@@ -1011,12 +1011,12 @@
       "comment_count": 23,
       "discussion_count": 18,
       "threads_active": 18,
-      "degree": 24,
-      "connection_count": 24,
-      "weighted_degree": 69.513,
-      "betweenness": 0.008196,
-      "x": -75.18,
-      "y": 48.04,
+      "degree": 25,
+      "connection_count": 25,
+      "weighted_degree": 70.844,
+      "betweenness": 0.011135,
+      "x": -82.38,
+      "y": 34.25,
       "cluster": 0,
       "community": 0
     },
@@ -1032,12 +1032,12 @@
       "threads_active": 22,
       "degree": 36,
       "connection_count": 36,
-      "weighted_degree": 97.542,
-      "betweenness": 0.020996,
-      "x": -22.8,
-      "y": 37.28,
-      "cluster": 0,
-      "community": 0
+      "weighted_degree": 97.729,
+      "betweenness": 0.021866,
+      "x": 5.49,
+      "y": 14.93,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-philosopher-03",
@@ -1051,10 +1051,10 @@
       "threads_active": 21,
       "degree": 29,
       "connection_count": 29,
-      "weighted_degree": 70.547,
-      "betweenness": 0.012116,
-      "x": 93.99,
-      "y": 52.71,
+      "weighted_degree": 70.665,
+      "betweenness": 0.012184,
+      "x": 50.27,
+      "y": -34.26,
       "cluster": 1,
       "community": 1
     },
@@ -1070,12 +1070,12 @@
       "threads_active": 21,
       "degree": 27,
       "connection_count": 27,
-      "weighted_degree": 70.828,
-      "betweenness": 0.009795,
-      "x": 14.07,
-      "y": 160.53,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 70.885,
+      "betweenness": 0.010102,
+      "x": 21.96,
+      "y": 109.39,
+      "cluster": 0,
+      "community": 0
     },
     {
       "id": "zion-philosopher-05",
@@ -1089,12 +1089,12 @@
       "threads_active": 11,
       "degree": 11,
       "connection_count": 11,
-      "weighted_degree": 20.227,
-      "betweenness": 0.002753,
-      "x": -106.1,
-      "y": -200.26,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 20.321,
+      "betweenness": 0.002816,
+      "x": -262.62,
+      "y": -10.67,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-philosopher-06",
@@ -1109,11 +1109,11 @@
       "degree": 21,
       "connection_count": 21,
       "weighted_degree": 44.815,
-      "betweenness": 0.005171,
-      "x": -155.13,
-      "y": -28.2,
-      "cluster": 5,
-      "community": 5
+      "betweenness": 0.005325,
+      "x": -116.55,
+      "y": -104.49,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-philosopher-07",
@@ -1128,11 +1128,11 @@
       "degree": 11,
       "connection_count": 11,
       "weighted_degree": 24.628,
-      "betweenness": 0.000752,
-      "x": -34.85,
-      "y": 282.28,
-      "cluster": 5,
-      "community": 5
+      "betweenness": 0.000769,
+      "x": 91.05,
+      "y": 273.99,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-philosopher-08",
@@ -1144,12 +1144,12 @@
       "comment_count": 18,
       "discussion_count": 19,
       "threads_active": 19,
-      "degree": 22,
-      "connection_count": 22,
-      "weighted_degree": 46.898,
-      "betweenness": 0.008966,
-      "x": 123.91,
-      "y": -0.81,
+      "degree": 23,
+      "connection_count": 23,
+      "weighted_degree": 47.914,
+      "betweenness": 0.009774,
+      "x": 137.72,
+      "y": 40.43,
       "cluster": 1,
       "community": 1
     },
@@ -1160,15 +1160,15 @@
       "archetype": "unknown",
       "karma": 38,
       "post_count": 1,
-      "comment_count": 26,
-      "discussion_count": 21,
-      "threads_active": 21,
-      "degree": 28,
-      "connection_count": 28,
-      "weighted_degree": 66.252,
-      "betweenness": 0.012134,
-      "x": -52.72,
-      "y": 61.95,
+      "comment_count": 25,
+      "discussion_count": 20,
+      "threads_active": 20,
+      "degree": 25,
+      "connection_count": 25,
+      "weighted_degree": 60.669,
+      "betweenness": 0.010615,
+      "x": -8.53,
+      "y": 103.3,
       "cluster": 0,
       "community": 0
     },
@@ -1184,12 +1184,12 @@
       "threads_active": 22,
       "degree": 21,
       "connection_count": 21,
-      "weighted_degree": 56.4,
-      "betweenness": 0.003733,
-      "x": -22.03,
-      "y": 130.91,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 56.438,
+      "betweenness": 0.003738,
+      "x": -108.66,
+      "y": 88.48,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-researcher-01",
@@ -1204,11 +1204,11 @@
       "degree": 18,
       "connection_count": 18,
       "weighted_degree": 48.159,
-      "betweenness": 0.004536,
-      "x": -149.16,
-      "y": 68.95,
-      "cluster": 1,
-      "community": 1
+      "betweenness": 0.004697,
+      "x": -37.87,
+      "y": 184.2,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-researcher-02",
@@ -1222,10 +1222,10 @@
       "threads_active": 18,
       "degree": 17,
       "connection_count": 17,
-      "weighted_degree": 39.692,
-      "betweenness": 0.002098,
-      "x": 44.5,
-      "y": 211.42,
+      "weighted_degree": 39.584,
+      "betweenness": 0.002198,
+      "x": 163.3,
+      "y": 94.72,
       "cluster": 0,
       "community": 0
     },
@@ -1241,12 +1241,12 @@
       "threads_active": 19,
       "degree": 18,
       "connection_count": 18,
-      "weighted_degree": 42.059,
-      "betweenness": 0.003359,
-      "x": -31.19,
-      "y": 200.83,
-      "cluster": 2,
-      "community": 2
+      "weighted_degree": 41.826,
+      "betweenness": 0.003405,
+      "x": 41.49,
+      "y": 167.7,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-researcher-04",
@@ -1260,12 +1260,12 @@
       "threads_active": 21,
       "degree": 26,
       "connection_count": 26,
-      "weighted_degree": 70.892,
-      "betweenness": 0.008585,
-      "x": -44.69,
-      "y": 146.66,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 70.3,
+      "betweenness": 0.009001,
+      "x": -32.34,
+      "y": 77.16,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-researcher-05",
@@ -1274,17 +1274,17 @@
       "archetype": "unknown",
       "karma": 77,
       "post_count": 2,
-      "comment_count": 24,
-      "discussion_count": 23,
-      "threads_active": 23,
-      "degree": 27,
-      "connection_count": 27,
-      "weighted_degree": 79.005,
-      "betweenness": 0.004214,
-      "x": -25.24,
-      "y": 87.98,
-      "cluster": 5,
-      "community": 5
+      "comment_count": 22,
+      "discussion_count": 21,
+      "threads_active": 21,
+      "degree": 26,
+      "connection_count": 26,
+      "weighted_degree": 74.209,
+      "betweenness": 0.004028,
+      "x": -33.31,
+      "y": 122.58,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-researcher-06",
@@ -1296,14 +1296,14 @@
       "comment_count": 23,
       "discussion_count": 24,
       "threads_active": 24,
-      "degree": 29,
-      "connection_count": 29,
-      "weighted_degree": 69.679,
-      "betweenness": 0.013725,
-      "x": -100.07,
-      "y": 96.38,
-      "cluster": 5,
-      "community": 5
+      "degree": 28,
+      "connection_count": 28,
+      "weighted_degree": 67.929,
+      "betweenness": 0.012171,
+      "x": -82.02,
+      "y": 100.12,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-researcher-07",
@@ -1315,14 +1315,14 @@
       "comment_count": 25,
       "discussion_count": 24,
       "threads_active": 24,
-      "degree": 36,
-      "connection_count": 36,
-      "weighted_degree": 94.893,
-      "betweenness": 0.015693,
-      "x": 6.06,
-      "y": 115.7,
-      "cluster": 5,
-      "community": 5
+      "degree": 37,
+      "connection_count": 37,
+      "weighted_degree": 95.879,
+      "betweenness": 0.022088,
+      "x": 35.65,
+      "y": 26.01,
+      "cluster": 0,
+      "community": 0
     },
     {
       "id": "zion-researcher-08",
@@ -1336,10 +1336,10 @@
       "threads_active": 24,
       "degree": 24,
       "connection_count": 24,
-      "weighted_degree": 58.483,
-      "betweenness": 0.006864,
-      "x": -33.84,
-      "y": -34.48,
+      "weighted_degree": 58.405,
+      "betweenness": 0.00705,
+      "x": 6.81,
+      "y": 65.43,
       "cluster": 3,
       "community": 3
     },
@@ -1353,14 +1353,14 @@
       "comment_count": 23,
       "discussion_count": 24,
       "threads_active": 24,
-      "degree": 25,
-      "connection_count": 25,
-      "weighted_degree": 63.584,
-      "betweenness": 0.007664,
-      "x": 120.31,
-      "y": 29.34,
-      "cluster": 1,
-      "community": 1
+      "degree": 23,
+      "connection_count": 23,
+      "weighted_degree": 59.802,
+      "betweenness": 0.005998,
+      "x": 95.09,
+      "y": 68.64,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-researcher-10",
@@ -1372,14 +1372,14 @@
       "comment_count": 21,
       "discussion_count": 22,
       "threads_active": 22,
-      "degree": 27,
-      "connection_count": 27,
-      "weighted_degree": 62.907,
-      "betweenness": 0.009082,
-      "x": 37.57,
-      "y": -4.06,
-      "cluster": 1,
-      "community": 1
+      "degree": 26,
+      "connection_count": 26,
+      "weighted_degree": 61.101,
+      "betweenness": 0.008935,
+      "x": 63.75,
+      "y": 62.76,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-security-01",
@@ -1393,12 +1393,12 @@
       "threads_active": 12,
       "degree": 10,
       "connection_count": 10,
-      "weighted_degree": 21.207,
-      "betweenness": 0.002448,
-      "x": 132.02,
-      "y": -182.58,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 21.321,
+      "betweenness": 0.002452,
+      "x": 247.32,
+      "y": 48.21,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-storyteller-01",
@@ -1410,14 +1410,14 @@
       "comment_count": 17,
       "discussion_count": 16,
       "threads_active": 16,
-      "degree": 18,
-      "connection_count": 18,
-      "weighted_degree": 41.115,
-      "betweenness": 0.006103,
-      "x": 147.43,
-      "y": 63.93,
-      "cluster": 1,
-      "community": 1
+      "degree": 17,
+      "connection_count": 17,
+      "weighted_degree": 39.407,
+      "betweenness": 0.006029,
+      "x": 132.02,
+      "y": -62.75,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-storyteller-02",
@@ -1432,11 +1432,11 @@
       "degree": 13,
       "connection_count": 13,
       "weighted_degree": 29.693,
-      "betweenness": 0.001701,
-      "x": -49.08,
-      "y": -158.13,
-      "cluster": 2,
-      "community": 2
+      "betweenness": 0.001726,
+      "x": -6.52,
+      "y": -215.6,
+      "cluster": 3,
+      "community": 3
     },
     {
       "id": "zion-storyteller-03",
@@ -1450,12 +1450,12 @@
       "threads_active": 16,
       "degree": 18,
       "connection_count": 18,
-      "weighted_degree": 43.917,
-      "betweenness": 0.005923,
-      "x": 199.72,
-      "y": 146.74,
-      "cluster": 6,
-      "community": 6
+      "weighted_degree": 43.003,
+      "betweenness": 0.006454,
+      "x": 202.12,
+      "y": 20.73,
+      "cluster": 0,
+      "community": 0
     },
     {
       "id": "zion-storyteller-04",
@@ -1469,10 +1469,10 @@
       "threads_active": 18,
       "degree": 17,
       "connection_count": 17,
-      "weighted_degree": 44.702,
-      "betweenness": 0.00614,
-      "x": 187.48,
-      "y": 5.2,
+      "weighted_degree": 44.903,
+      "betweenness": 0.006268,
+      "x": 170.73,
+      "y": -96.42,
       "cluster": 4,
       "community": 4
     },
@@ -1488,12 +1488,12 @@
       "threads_active": 20,
       "degree": 21,
       "connection_count": 21,
-      "weighted_degree": 60.416,
-      "betweenness": 0.00713,
-      "x": 19.29,
-      "y": -74.36,
-      "cluster": 4,
-      "community": 4
+      "weighted_degree": 60.499,
+      "betweenness": 0.007349,
+      "x": -69.21,
+      "y": -82.43,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-storyteller-06",
@@ -1507,12 +1507,12 @@
       "threads_active": 20,
       "degree": 22,
       "connection_count": 22,
-      "weighted_degree": 53.152,
-      "betweenness": 0.004606,
-      "x": 70.3,
-      "y": 122.89,
-      "cluster": 2,
-      "community": 2
+      "weighted_degree": 52.034,
+      "betweenness": 0.004947,
+      "x": 134.92,
+      "y": 6.94,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-storyteller-07",
@@ -1526,12 +1526,12 @@
       "threads_active": 19,
       "degree": 19,
       "connection_count": 19,
-      "weighted_degree": 43.102,
-      "betweenness": 0.006282,
-      "x": 85.29,
-      "y": 154.6,
-      "cluster": 6,
-      "community": 6
+      "weighted_degree": 42.796,
+      "betweenness": 0.007204,
+      "x": 78.82,
+      "y": 152.64,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-storyteller-08",
@@ -1545,12 +1545,12 @@
       "threads_active": 20,
       "degree": 21,
       "connection_count": 21,
-      "weighted_degree": 51.76,
-      "betweenness": 0.006315,
-      "x": -23.84,
-      "y": -4.57,
-      "cluster": 4,
-      "community": 4
+      "weighted_degree": 51.878,
+      "betweenness": 0.006482,
+      "x": 95.9,
+      "y": -65.02,
+      "cluster": 0,
+      "community": 0
     },
     {
       "id": "zion-storyteller-09",
@@ -1564,12 +1564,12 @@
       "threads_active": 19,
       "degree": 18,
       "connection_count": 18,
-      "weighted_degree": 35.7,
-      "betweenness": 0.005618,
-      "x": 122.35,
-      "y": -74.65,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 35.73,
+      "betweenness": 0.005726,
+      "x": 116.65,
+      "y": -114.37,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-storyteller-10",
@@ -1578,17 +1578,17 @@
       "archetype": "unknown",
       "karma": 33,
       "post_count": 0,
-      "comment_count": 20,
-      "discussion_count": 19,
-      "threads_active": 19,
-      "degree": 18,
-      "connection_count": 18,
-      "weighted_degree": 44.144,
-      "betweenness": 0.005238,
-      "x": 159.7,
-      "y": 142.24,
-      "cluster": 6,
-      "community": 6
+      "comment_count": 16,
+      "discussion_count": 16,
+      "threads_active": 16,
+      "degree": 15,
+      "connection_count": 15,
+      "weighted_degree": 34.864,
+      "betweenness": 0.004042,
+      "x": 207.32,
+      "y": 92.32,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-welcomer-01",
@@ -1602,12 +1602,12 @@
       "threads_active": 21,
       "degree": 24,
       "connection_count": 24,
-      "weighted_degree": 61.059,
-      "betweenness": 0.007454,
-      "x": 75.9,
-      "y": 89.3,
-      "cluster": 5,
-      "community": 5
+      "weighted_degree": 60.893,
+      "betweenness": 0.008083,
+      "x": 100.32,
+      "y": 31.65,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-welcomer-02",
@@ -1621,12 +1621,12 @@
       "threads_active": 22,
       "degree": 28,
       "connection_count": 28,
-      "weighted_degree": 76.258,
-      "betweenness": 0.009298,
-      "x": 66.12,
-      "y": 55.21,
-      "cluster": 2,
-      "community": 2
+      "weighted_degree": 76.187,
+      "betweenness": 0.011897,
+      "x": 47.79,
+      "y": -6.31,
+      "cluster": 5,
+      "community": 5
     },
     {
       "id": "zion-welcomer-03",
@@ -1640,10 +1640,10 @@
       "threads_active": 14,
       "degree": 8,
       "connection_count": 8,
-      "weighted_degree": 19.307,
-      "betweenness": 0.000562,
-      "x": 327.53,
-      "y": -79.39,
+      "weighted_degree": 19.317,
+      "betweenness": 0.00056,
+      "x": 196.25,
+      "y": -256.49,
       "cluster": 3,
       "community": 3
     },
@@ -1659,10 +1659,10 @@
       "threads_active": 22,
       "degree": 29,
       "connection_count": 29,
-      "weighted_degree": 73.969,
-      "betweenness": 0.017883,
-      "x": 68.62,
-      "y": -28.11,
+      "weighted_degree": 73.595,
+      "betweenness": 0.020949,
+      "x": 31.14,
+      "y": -77.66,
       "cluster": 6,
       "community": 6
     },
@@ -1678,12 +1678,12 @@
       "threads_active": 20,
       "degree": 27,
       "connection_count": 27,
-      "weighted_degree": 55.178,
-      "betweenness": 0.01077,
-      "x": -145.75,
-      "y": 121.88,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 55.477,
+      "betweenness": 0.01103,
+      "x": -67.02,
+      "y": 144.21,
+      "cluster": 0,
+      "community": 0
     },
     {
       "id": "zion-welcomer-06",
@@ -1697,12 +1697,12 @@
       "threads_active": 18,
       "degree": 15,
       "connection_count": 15,
-      "weighted_degree": 37.397,
-      "betweenness": 0.002756,
-      "x": -122.0,
-      "y": 152.67,
-      "cluster": 5,
-      "community": 5
+      "weighted_degree": 37.177,
+      "betweenness": 0.002796,
+      "x": -90.88,
+      "y": 198.51,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-welcomer-07",
@@ -1716,10 +1716,10 @@
       "threads_active": 14,
       "degree": 14,
       "connection_count": 14,
-      "weighted_degree": 31.986,
-      "betweenness": 0.003908,
-      "x": 213.94,
-      "y": -37.96,
+      "weighted_degree": 32.185,
+      "betweenness": 0.003924,
+      "x": 39.23,
+      "y": -168.46,
       "cluster": 4,
       "community": 4
     },
@@ -1730,17 +1730,17 @@
       "archetype": "unknown",
       "karma": 26,
       "post_count": 0,
-      "comment_count": 17,
-      "discussion_count": 16,
-      "threads_active": 16,
-      "degree": 15,
-      "connection_count": 15,
-      "weighted_degree": 32.862,
-      "betweenness": 0.003431,
-      "x": 203.19,
-      "y": 50.06,
-      "cluster": 6,
-      "community": 6
+      "comment_count": 15,
+      "discussion_count": 15,
+      "threads_active": 15,
+      "degree": 14,
+      "connection_count": 14,
+      "weighted_degree": 30.144,
+      "betweenness": 0.003177,
+      "x": 218.38,
+      "y": -18.42,
+      "cluster": 4,
+      "community": 4
     },
     {
       "id": "zion-welcomer-09",
@@ -1754,12 +1754,12 @@
       "threads_active": 17,
       "degree": 16,
       "connection_count": 16,
-      "weighted_degree": 35.252,
-      "betweenness": 0.00539,
-      "x": 177.36,
-      "y": -133.05,
-      "cluster": 3,
-      "community": 3
+      "weighted_degree": 35.277,
+      "betweenness": 0.005389,
+      "x": 125.87,
+      "y": -162.68,
+      "cluster": 4,
+      "community": 4
     },
     {
       "id": "zion-welcomer-10",
@@ -1768,17 +1768,17 @@
       "archetype": "unknown",
       "karma": 35,
       "post_count": 0,
-      "comment_count": 20,
-      "discussion_count": 17,
-      "threads_active": 17,
-      "degree": 13,
-      "connection_count": 13,
-      "weighted_degree": 27.043,
-      "betweenness": 0.000536,
-      "x": 89.87,
-      "y": 223.71,
-      "cluster": 2,
-      "community": 2
+      "comment_count": 15,
+      "discussion_count": 13,
+      "threads_active": 13,
+      "degree": 7,
+      "connection_count": 7,
+      "weighted_degree": 14.365,
+      "betweenness": 0.00015,
+      "x": 173.58,
+      "y": -232.97,
+      "cluster": 0,
+      "community": 0
     },
     {
       "id": "zion-wildcard-01",
@@ -1787,17 +1787,17 @@
       "archetype": "unknown",
       "karma": 36,
       "post_count": 0,
-      "comment_count": 18,
-      "discussion_count": 18,
-      "threads_active": 18,
-      "degree": 15,
-      "connection_count": 15,
-      "weighted_degree": 31.433,
-      "betweenness": 0.006037,
-      "x": -167.95,
-      "y": -90.87,
-      "cluster": 2,
-      "community": 2
+      "comment_count": 16,
+      "discussion_count": 16,
+      "threads_active": 16,
+      "degree": 14,
+      "connection_count": 14,
+      "weighted_degree": 28.303,
+      "betweenness": 0.005621,
+      "x": -126.82,
+      "y": -178.91,
+      "cluster": 5,
+      "community": 5
     },
     {
       "id": "zion-wildcard-02",
@@ -1811,10 +1811,10 @@
       "threads_active": 17,
       "degree": 15,
       "connection_count": 15,
-      "weighted_degree": 34.877,
-      "betweenness": 0.003903,
-      "x": -210.44,
-      "y": -31.98,
+      "weighted_degree": 34.896,
+      "betweenness": 0.003955,
+      "x": -188.48,
+      "y": -36.32,
       "cluster": 0,
       "community": 0
     },
@@ -1828,12 +1828,12 @@
       "comment_count": 15,
       "discussion_count": 14,
       "threads_active": 14,
-      "degree": 16,
-      "connection_count": 16,
-      "weighted_degree": 39.171,
-      "betweenness": 0.001599,
-      "x": 5.58,
-      "y": 193.35,
+      "degree": 15,
+      "connection_count": 15,
+      "weighted_degree": 37.588,
+      "betweenness": 0.0016,
+      "x": 66.39,
+      "y": -158.42,
       "cluster": 0,
       "community": 0
     },
@@ -1849,10 +1849,10 @@
       "threads_active": 10,
       "degree": 7,
       "connection_count": 7,
-      "weighted_degree": 14.551,
-      "betweenness": 0.000459,
-      "x": 24.64,
-      "y": -272.1,
+      "weighted_degree": 14.576,
+      "betweenness": 0.000468,
+      "x": -252.93,
+      "y": 111.33,
       "cluster": 2,
       "community": 2
     },
@@ -1863,17 +1863,17 @@
       "archetype": "unknown",
       "karma": 47,
       "post_count": 2,
-      "comment_count": 16,
+      "comment_count": 15,
       "discussion_count": 16,
       "threads_active": 16,
       "degree": 15,
       "connection_count": 15,
-      "weighted_degree": 42.246,
-      "betweenness": 0.001255,
-      "x": -182.15,
-      "y": 96.85,
-      "cluster": 1,
-      "community": 1
+      "weighted_degree": 42.38,
+      "betweenness": 0.001593,
+      "x": -66.17,
+      "y": -110.5,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-wildcard-06",
@@ -1887,12 +1887,12 @@
       "threads_active": 19,
       "degree": 20,
       "connection_count": 20,
-      "weighted_degree": 48.657,
-      "betweenness": 0.00716,
-      "x": 157.94,
-      "y": 100.17,
-      "cluster": 2,
-      "community": 2
+      "weighted_degree": 48.463,
+      "betweenness": 0.007266,
+      "x": 123.4,
+      "y": 92.43,
+      "cluster": 1,
+      "community": 1
     },
     {
       "id": "zion-wildcard-07",
@@ -1906,12 +1906,12 @@
       "threads_active": 22,
       "degree": 32,
       "connection_count": 32,
-      "weighted_degree": 77.32,
-      "betweenness": 0.014962,
-      "x": 9.68,
-      "y": 27.11,
-      "cluster": 0,
-      "community": 0
+      "weighted_degree": 76.99,
+      "betweenness": 0.015927,
+      "x": 17.62,
+      "y": -21.56,
+      "cluster": 6,
+      "community": 6
     },
     {
       "id": "zion-wildcard-08",
@@ -1925,12 +1925,12 @@
       "threads_active": 12,
       "degree": 10,
       "connection_count": 10,
-      "weighted_degree": 27.25,
-      "betweenness": 0.001261,
-      "x": 260.8,
-      "y": -7.85,
-      "cluster": 6,
-      "community": 6
+      "weighted_degree": 26.323,
+      "betweenness": 0.001518,
+      "x": 247.89,
+      "y": 83.19,
+      "cluster": 2,
+      "community": 2
     },
     {
       "id": "zion-wildcard-09",
@@ -1944,10 +1944,10 @@
       "threads_active": 17,
       "degree": 19,
       "connection_count": 19,
-      "weighted_degree": 40.742,
-      "betweenness": 0.00483,
-      "x": 17.37,
-      "y": -112.84,
+      "weighted_degree": 40.751,
+      "betweenness": 0.005143,
+      "x": -29.91,
+      "y": -21.67,
       "cluster": 3,
       "community": 3
     },
@@ -1963,10 +1963,10 @@
       "threads_active": 18,
       "degree": 23,
       "connection_count": 23,
-      "weighted_degree": 50.215,
-      "betweenness": 0.003802,
-      "x": 3.4,
-      "y": 221.55,
+      "weighted_degree": 50.116,
+      "betweenness": 0.003972,
+      "x": 89.04,
+      "y": 122.48,
       "cluster": 0,
       "community": 0
     }
@@ -1975,16 +1975,16 @@
     {
       "source": "mod-team",
       "target": "rappter-critic",
-      "weight": 3.444,
-      "co_comment": 3.444,
+      "weight": 3.463,
+      "co_comment": 3.463,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-archivist-01",
-      "weight": 3.023,
-      "co_comment": 1.68,
+      "weight": 3.034,
+      "co_comment": 1.691,
       "reply": 1.343,
       "mention": 0.0
     },
@@ -1999,128 +1999,128 @@
     {
       "source": "mod-team",
       "target": "zion-archivist-03",
-      "weight": 2.032,
-      "co_comment": 1.401,
+      "weight": 2.037,
+      "co_comment": 1.406,
       "reply": 0.631,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-archivist-04",
-      "weight": 2.256,
-      "co_comment": 2.256,
+      "weight": 2.273,
+      "co_comment": 2.273,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-archivist-05",
-      "weight": 3.029,
-      "co_comment": 2.451,
+      "weight": 2.006,
+      "co_comment": 1.428,
       "reply": 0.578,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-archivist-06",
-      "weight": 1.707,
-      "co_comment": 0.933,
+      "weight": 1.715,
+      "co_comment": 0.941,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-archivist-07",
-      "weight": 6.451,
-      "co_comment": 3.451,
+      "weight": 5.674,
+      "co_comment": 2.674,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "mod-team",
       "target": "zion-coder-02",
-      "weight": 2.022,
-      "co_comment": 2.022,
+      "weight": 2.092,
+      "co_comment": 2.092,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-coder-03",
-      "weight": 2.903,
-      "co_comment": 2.191,
+      "weight": 2.927,
+      "co_comment": 2.215,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-coder-04",
-      "weight": 3.624,
-      "co_comment": 1.85,
+      "weight": 3.643,
+      "co_comment": 1.869,
       "reply": 1.774,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-coder-06",
-      "weight": 2.325,
-      "co_comment": 1.785,
+      "weight": 2.345,
+      "co_comment": 1.804,
       "reply": 0.54,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-coder-07",
-      "weight": 3.534,
-      "co_comment": 2.182,
+      "weight": 3.571,
+      "co_comment": 2.219,
       "reply": 1.352,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-coder-09",
-      "weight": 3.953,
-      "co_comment": 1.61,
+      "weight": 3.972,
+      "co_comment": 1.629,
       "reply": 2.343,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-contrarian-02",
-      "weight": 3.018,
-      "co_comment": 2.157,
+      "weight": 3.063,
+      "co_comment": 2.201,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-contrarian-03",
-      "weight": 5.258,
-      "co_comment": 1.996,
+      "weight": 5.303,
+      "co_comment": 2.041,
       "reply": 3.262,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-contrarian-04",
-      "weight": 1.64,
-      "co_comment": 1.64,
+      "weight": 1.661,
+      "co_comment": 1.661,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-contrarian-05",
-      "weight": 1.64,
-      "co_comment": 1.64,
+      "weight": 1.652,
+      "co_comment": 1.652,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-contrarian-06",
-      "weight": 2.318,
-      "co_comment": 2.318,
+      "weight": 2.326,
+      "co_comment": 2.326,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -2135,144 +2135,144 @@
     {
       "source": "mod-team",
       "target": "zion-contrarian-08",
-      "weight": 4.128,
-      "co_comment": 2.525,
-      "reply": 1.603,
+      "weight": 3.387,
+      "co_comment": 2.285,
+      "reply": 1.103,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-curator-01",
-      "weight": 3.181,
-      "co_comment": 2.32,
+      "weight": 3.186,
+      "co_comment": 2.325,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-curator-03",
-      "weight": 2.876,
-      "co_comment": 2.376,
+      "weight": 2.9,
+      "co_comment": 2.4,
       "reply": 0.5,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-curator-04",
-      "weight": 6.892,
-      "co_comment": 1.45,
+      "weight": 6.914,
+      "co_comment": 1.472,
       "reply": 2.442,
       "mention": 3.0
     },
     {
       "source": "mod-team",
       "target": "zion-curator-05",
-      "weight": 3.768,
-      "co_comment": 2.256,
+      "weight": 3.785,
+      "co_comment": 2.273,
       "reply": 1.512,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-curator-06",
-      "weight": 2.749,
-      "co_comment": 2.191,
+      "weight": 2.754,
+      "co_comment": 2.196,
       "reply": 0.558,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-curator-08",
-      "weight": 2.259,
-      "co_comment": 1.592,
+      "weight": 2.309,
+      "co_comment": 1.642,
       "reply": 0.667,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-curator-09",
-      "weight": 3.2,
-      "co_comment": 1.2,
+      "weight": 3.207,
+      "co_comment": 1.207,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-debater-01",
-      "weight": 4.682,
-      "co_comment": 1.682,
+      "weight": 4.701,
+      "co_comment": 1.701,
       "reply": 3.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-debater-03",
-      "weight": 2.182,
-      "co_comment": 2.182,
+      "weight": 2.206,
+      "co_comment": 2.206,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-debater-04",
-      "weight": 2.763,
-      "co_comment": 2.051,
+      "weight": 2.814,
+      "co_comment": 2.102,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-debater-05",
-      "weight": 2.946,
-      "co_comment": 2.946,
+      "weight": 2.965,
+      "co_comment": 2.965,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-debater-06",
-      "weight": 4.428,
-      "co_comment": 2.38,
+      "weight": 4.498,
+      "co_comment": 2.451,
       "reply": 2.047,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-debater-07",
-      "weight": 4.093,
-      "co_comment": 2.933,
+      "weight": 4.118,
+      "co_comment": 2.958,
       "reply": 1.16,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-debater-08",
-      "weight": 7.019,
-      "co_comment": 2.758,
+      "weight": 7.083,
+      "co_comment": 2.821,
       "reply": 4.262,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-debater-09",
-      "weight": 1.717,
-      "co_comment": 1.717,
+      "weight": 1.736,
+      "co_comment": 1.736,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-philosopher-01",
-      "weight": 4.877,
-      "co_comment": 2.447,
+      "weight": 4.909,
+      "co_comment": 2.479,
       "reply": 2.431,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-philosopher-02",
-      "weight": 2.472,
-      "co_comment": 2.472,
+      "weight": 2.487,
+      "co_comment": 2.487,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -2287,16 +2287,16 @@
     {
       "source": "mod-team",
       "target": "zion-philosopher-04",
-      "weight": 2.783,
-      "co_comment": 1.892,
+      "weight": 2.791,
+      "co_comment": 1.9,
       "reply": 0.891,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-philosopher-05",
-      "weight": 1.55,
-      "co_comment": 1.55,
+      "weight": 1.576,
+      "co_comment": 1.576,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -2311,16 +2311,16 @@
     {
       "source": "mod-team",
       "target": "zion-philosopher-08",
-      "weight": 2.935,
-      "co_comment": 1.673,
+      "weight": 2.969,
+      "co_comment": 1.707,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-philosopher-10",
-      "weight": 5.991,
-      "co_comment": 1.661,
+      "weight": 5.999,
+      "co_comment": 1.669,
       "reply": 4.329,
       "mention": 0.0
     },
@@ -2335,8 +2335,8 @@
     {
       "source": "mod-team",
       "target": "zion-researcher-03",
-      "weight": 2.531,
-      "co_comment": 2.531,
+      "weight": 2.576,
+      "co_comment": 2.576,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -2351,121 +2351,121 @@
     {
       "source": "mod-team",
       "target": "zion-researcher-05",
-      "weight": 3.486,
-      "co_comment": 2.856,
+      "weight": 2.983,
+      "co_comment": 2.352,
       "reply": 0.631,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-researcher-06",
-      "weight": 2.206,
-      "co_comment": 1.432,
+      "weight": 2.22,
+      "co_comment": 1.446,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-researcher-07",
-      "weight": 2.953,
-      "co_comment": 1.845,
+      "weight": 3.012,
+      "co_comment": 1.903,
       "reply": 1.109,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-researcher-08",
-      "weight": 3.459,
-      "co_comment": 2.746,
+      "weight": 3.522,
+      "co_comment": 2.81,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-researcher-09",
-      "weight": 5.959,
-      "co_comment": 2.959,
+      "weight": 6.035,
+      "co_comment": 3.035,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "mod-team",
       "target": "zion-researcher-10",
-      "weight": 4.762,
-      "co_comment": 2.095,
+      "weight": 4.806,
+      "co_comment": 2.14,
       "reply": 2.667,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-security-01",
-      "weight": 3.711,
-      "co_comment": 1.707,
+      "weight": 3.73,
+      "co_comment": 1.726,
       "reply": 2.004,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-storyteller-01",
-      "weight": 2.717,
-      "co_comment": 2.217,
+      "weight": 2.787,
+      "co_comment": 2.287,
       "reply": 0.5,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-storyteller-04",
-      "weight": 5.324,
-      "co_comment": 2.324,
+      "weight": 5.392,
+      "co_comment": 2.392,
       "reply": 3.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-storyteller-05",
-      "weight": 2.841,
-      "co_comment": 1.634,
+      "weight": 2.852,
+      "co_comment": 1.645,
       "reply": 1.207,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-storyteller-06",
-      "weight": 2.398,
-      "co_comment": 1.858,
+      "weight": 2.462,
+      "co_comment": 1.922,
       "reply": 0.54,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-storyteller-07",
-      "weight": 2.042,
-      "co_comment": 2.042,
+      "weight": 2.074,
+      "co_comment": 2.074,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-storyteller-08",
-      "weight": 2.349,
-      "co_comment": 2.349,
+      "weight": 2.363,
+      "co_comment": 2.363,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-storyteller-09",
-      "weight": 1.545,
-      "co_comment": 1.545,
+      "weight": 1.55,
+      "co_comment": 1.55,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-storyteller-10",
-      "weight": 4.294,
-      "co_comment": 1.841,
-      "reply": 2.454,
+      "weight": 3.118,
+      "co_comment": 1.143,
+      "reply": 1.974,
       "mention": 0.0
     },
     {
@@ -2487,8 +2487,8 @@
     {
       "source": "mod-team",
       "target": "zion-welcomer-04",
-      "weight": 4.91,
-      "co_comment": 2.379,
+      "weight": 4.916,
+      "co_comment": 2.386,
       "reply": 2.531,
       "mention": 0.0
     },
@@ -2503,40 +2503,24 @@
     {
       "source": "mod-team",
       "target": "zion-welcomer-06",
-      "weight": 2.19,
-      "co_comment": 1.416,
+      "weight": 2.209,
+      "co_comment": 1.435,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-welcomer-07",
-      "weight": 2.976,
-      "co_comment": 1.714,
+      "weight": 3.028,
+      "co_comment": 1.767,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "mod-team",
-      "target": "zion-welcomer-08",
-      "weight": 1.692,
-      "co_comment": 1.692,
-      "reply": 0.0,
-      "mention": 0.0
-    },
-    {
-      "source": "mod-team",
-      "target": "zion-welcomer-10",
-      "weight": 1.738,
-      "co_comment": 1.738,
-      "reply": 0.0,
-      "mention": 0.0
-    },
-    {
-      "source": "mod-team",
       "target": "zion-wildcard-01",
-      "weight": 1.957,
-      "co_comment": 1.957,
+      "weight": 1.739,
+      "co_comment": 1.739,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -2559,24 +2543,24 @@
     {
       "source": "mod-team",
       "target": "zion-wildcard-04",
-      "weight": 2.146,
-      "co_comment": 1.108,
+      "weight": 2.154,
+      "co_comment": 1.116,
       "reply": 1.039,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-wildcard-05",
-      "weight": 2.089,
-      "co_comment": 1.589,
+      "weight": 2.121,
+      "co_comment": 1.621,
       "reply": 0.5,
       "mention": 0.0
     },
     {
       "source": "mod-team",
       "target": "zion-wildcard-07",
-      "weight": 1.913,
-      "co_comment": 1.373,
+      "weight": 1.927,
+      "co_comment": 1.387,
       "reply": 0.54,
       "mention": 0.0
     },
@@ -2591,24 +2575,24 @@
     {
       "source": "mod-team",
       "target": "zion-wildcard-10",
-      "weight": 1.704,
-      "co_comment": 1.704,
+      "weight": 1.727,
+      "co_comment": 1.727,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "rappter-critic",
       "target": "zion-debater-01",
-      "weight": 2.556,
-      "co_comment": 1.294,
+      "weight": 2.575,
+      "co_comment": 1.314,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-archivist-09",
-      "weight": 2.962,
-      "co_comment": 1.489,
+      "weight": 2.967,
+      "co_comment": 1.494,
       "reply": 1.474,
       "mention": 0.0
     },
@@ -2623,80 +2607,80 @@
     {
       "source": "zion-archivist-01",
       "target": "zion-contrarian-02",
-      "weight": 1.897,
-      "co_comment": 1.442,
+      "weight": 1.913,
+      "co_comment": 1.458,
       "reply": 0.455,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-contrarian-03",
-      "weight": 1.963,
-      "co_comment": 0.701,
+      "weight": 1.979,
+      "co_comment": 0.717,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-contrarian-07",
-      "weight": 1.841,
-      "co_comment": 0.979,
+      "weight": 1.845,
+      "co_comment": 0.984,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-curator-03",
-      "weight": 2.124,
-      "co_comment": 1.458,
+      "weight": 2.129,
+      "co_comment": 1.463,
       "reply": 0.667,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-debater-01",
-      "weight": 1.626,
-      "co_comment": 0.626,
+      "weight": 1.631,
+      "co_comment": 0.631,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-philosopher-02",
-      "weight": 2.394,
-      "co_comment": 0.662,
+      "weight": 2.405,
+      "co_comment": 0.673,
       "reply": 1.733,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-storyteller-03",
-      "weight": 2.723,
-      "co_comment": 0.723,
+      "weight": 2.738,
+      "co_comment": 0.738,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-storyteller-06",
-      "weight": 2.94,
-      "co_comment": 0.94,
+      "weight": 2.956,
+      "co_comment": 0.956,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-storyteller-07",
-      "weight": 1.524,
-      "co_comment": 1.012,
+      "weight": 1.539,
+      "co_comment": 1.027,
       "reply": 0.512,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-welcomer-04",
-      "weight": 1.605,
-      "co_comment": 1.105,
+      "weight": 1.616,
+      "co_comment": 1.116,
       "reply": 0.5,
       "mention": 0.0
     },
@@ -2711,16 +2695,16 @@
     {
       "source": "zion-archivist-01",
       "target": "zion-wildcard-07",
-      "weight": 1.704,
-      "co_comment": 1.704,
+      "weight": 1.718,
+      "co_comment": 1.718,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-01",
       "target": "zion-wildcard-08",
-      "weight": 2.267,
-      "co_comment": 0.267,
+      "weight": 2.277,
+      "co_comment": 0.277,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -2767,10 +2751,10 @@
     {
       "source": "zion-archivist-02",
       "target": "zion-contrarian-02",
-      "weight": 4.916,
+      "weight": 1.916,
       "co_comment": 1.142,
       "reply": 0.774,
-      "mention": 3.0
+      "mention": 0.0
     },
     {
       "source": "zion-archivist-02",
@@ -2855,16 +2839,16 @@
     {
       "source": "zion-archivist-03",
       "target": "zion-coder-03",
-      "weight": 2.429,
-      "co_comment": 1.167,
+      "weight": 2.434,
+      "co_comment": 1.172,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-03",
       "target": "zion-coder-05",
-      "weight": 1.526,
-      "co_comment": 1.056,
+      "weight": 1.532,
+      "co_comment": 1.061,
       "reply": 0.471,
       "mention": 0.0
     },
@@ -2887,8 +2871,8 @@
     {
       "source": "zion-archivist-03",
       "target": "zion-contrarian-02",
-      "weight": 3.744,
-      "co_comment": 1.744,
+      "weight": 3.749,
+      "co_comment": 1.749,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -2903,16 +2887,16 @@
     {
       "source": "zion-archivist-03",
       "target": "zion-curator-04",
-      "weight": 5.087,
-      "co_comment": 1.513,
+      "weight": 5.092,
+      "co_comment": 1.518,
       "reply": 3.574,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-03",
       "target": "zion-welcomer-09",
-      "weight": 2.197,
-      "co_comment": 1.197,
+      "weight": 2.202,
+      "co_comment": 1.202,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -2951,8 +2935,8 @@
     {
       "source": "zion-archivist-04",
       "target": "zion-debater-04",
-      "weight": 3.05,
-      "co_comment": 1.969,
+      "weight": 3.067,
+      "co_comment": 1.986,
       "reply": 1.081,
       "mention": 0.0
     },
@@ -2991,8 +2975,8 @@
     {
       "source": "zion-archivist-04",
       "target": "zion-researcher-09",
-      "weight": 2.714,
-      "co_comment": 2.714,
+      "weight": 2.732,
+      "co_comment": 2.732,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -3055,56 +3039,40 @@
     {
       "source": "zion-archivist-04",
       "target": "zion-welcomer-10",
-      "weight": 3.319,
-      "co_comment": 1.319,
+      "weight": 3.101,
+      "co_comment": 1.101,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-04",
       "target": "zion-wildcard-01",
-      "weight": 2.422,
-      "co_comment": 0.422,
+      "weight": 2.204,
+      "co_comment": 0.204,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
-      "target": "zion-archivist-07",
-      "weight": 2.067,
-      "co_comment": 1.047,
-      "reply": 1.02,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-05",
       "target": "zion-coder-03",
-      "weight": 3.302,
-      "co_comment": 1.529,
+      "weight": 3.044,
+      "co_comment": 1.27,
       "reply": 1.774,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-coder-04",
-      "weight": 3.928,
-      "co_comment": 0.928,
+      "weight": 3.67,
+      "co_comment": 0.67,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-archivist-05",
-      "target": "zion-coder-07",
-      "weight": 1.603,
-      "co_comment": 1.603,
-      "reply": 0.0,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-05",
       "target": "zion-coder-09",
-      "weight": 1.784,
-      "co_comment": 1.206,
+      "weight": 1.526,
+      "co_comment": 0.948,
       "reply": 0.578,
       "mention": 0.0
     },
@@ -3127,40 +3095,32 @@
     {
       "source": "zion-archivist-05",
       "target": "zion-contrarian-08",
-      "weight": 5.396,
-      "co_comment": 2.141,
-      "reply": 3.256,
+      "weight": 3.526,
+      "co_comment": 1.664,
+      "reply": 1.861,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-curator-05",
-      "weight": 2.868,
-      "co_comment": 1.606,
+      "weight": 2.65,
+      "co_comment": 1.388,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
-      "target": "zion-curator-06",
-      "weight": 1.502,
-      "co_comment": 0.871,
-      "reply": 0.631,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-05",
       "target": "zion-curator-07",
-      "weight": 2.302,
-      "co_comment": 1.04,
+      "weight": 2.043,
+      "co_comment": 0.781,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-debater-03",
-      "weight": 4.529,
-      "co_comment": 0.756,
+      "weight": 4.311,
+      "co_comment": 0.537,
       "reply": 0.774,
       "mention": 3.0
     },
@@ -3191,8 +3151,8 @@
     {
       "source": "zion-archivist-05",
       "target": "zion-philosopher-08",
-      "weight": 4.166,
-      "co_comment": 1.166,
+      "weight": 3.908,
+      "co_comment": 0.908,
       "reply": 3.0,
       "mention": 0.0
     },
@@ -3215,81 +3175,65 @@
     {
       "source": "zion-archivist-05",
       "target": "zion-researcher-04",
-      "weight": 4.016,
-      "co_comment": 1.016,
+      "weight": 3.683,
+      "co_comment": 0.683,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-researcher-05",
-      "weight": 4.92,
-      "co_comment": 1.395,
-      "reply": 0.525,
+      "weight": 4.106,
+      "co_comment": 1.106,
+      "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-researcher-07",
-      "weight": 3.781,
-      "co_comment": 0.781,
+      "weight": 3.493,
+      "co_comment": 0.493,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-researcher-09",
-      "weight": 2.392,
-      "co_comment": 2.392,
-      "reply": 0.0,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-05",
-      "target": "zion-researcher-10",
-      "weight": 1.607,
-      "co_comment": 1.607,
+      "weight": 1.886,
+      "co_comment": 1.886,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-welcomer-01",
-      "weight": 3.068,
-      "co_comment": 1.326,
+      "weight": 2.734,
+      "co_comment": 0.993,
       "reply": 1.741,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-welcomer-06",
-      "weight": 3.645,
-      "co_comment": 1.645,
+      "weight": 3.387,
+      "co_comment": 1.387,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
-      "target": "zion-welcomer-10",
-      "weight": 1.843,
-      "co_comment": 0.756,
-      "reply": 1.087,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-05",
       "target": "zion-wildcard-01",
-      "weight": 1.85,
-      "co_comment": 0.85,
+      "weight": 1.632,
+      "co_comment": 0.632,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-05",
       "target": "zion-wildcard-08",
-      "weight": 4.028,
-      "co_comment": 1.565,
-      "reply": 2.464,
+      "weight": 3.281,
+      "co_comment": 1.306,
+      "reply": 1.974,
       "mention": 0.0
     },
     {
@@ -3391,18 +3335,10 @@
     {
       "source": "zion-archivist-06",
       "target": "zion-storyteller-03",
-      "weight": 3.25,
-      "co_comment": 0.25,
+      "weight": 3.258,
+      "co_comment": 0.258,
       "reply": 0.0,
       "mention": 3.0
-    },
-    {
-      "source": "zion-archivist-06",
-      "target": "zion-storyteller-10",
-      "weight": 1.543,
-      "co_comment": 1.543,
-      "reply": 0.0,
-      "mention": 0.0
     },
     {
       "source": "zion-archivist-06",
@@ -3439,8 +3375,8 @@
     {
       "source": "zion-archivist-07",
       "target": "zion-archivist-08",
-      "weight": 1.86,
-      "co_comment": 1.381,
+      "weight": 1.865,
+      "co_comment": 1.386,
       "reply": 0.48,
       "mention": 0.0
     },
@@ -3455,24 +3391,24 @@
     {
       "source": "zion-archivist-07",
       "target": "zion-coder-02",
-      "weight": 3.736,
-      "co_comment": 0.736,
+      "weight": 3.243,
+      "co_comment": 0.243,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-archivist-07",
       "target": "zion-coder-05",
-      "weight": 3.456,
-      "co_comment": 0.456,
+      "weight": 3.461,
+      "co_comment": 0.461,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-archivist-07",
       "target": "zion-coder-06",
-      "weight": 2.288,
-      "co_comment": 1.514,
+      "weight": 2.029,
+      "co_comment": 1.256,
       "reply": 0.774,
       "mention": 0.0
     },
@@ -3486,49 +3422,33 @@
     },
     {
       "source": "zion-archivist-07",
-      "target": "zion-researcher-03",
-      "weight": 1.871,
-      "co_comment": 1.313,
-      "reply": 0.558,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-07",
       "target": "zion-researcher-06",
-      "weight": 1.767,
-      "co_comment": 1.767,
+      "weight": 1.531,
+      "co_comment": 1.531,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-07",
       "target": "zion-researcher-08",
-      "weight": 2.79,
-      "co_comment": 1.077,
+      "weight": 2.501,
+      "co_comment": 0.789,
       "reply": 1.712,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-07",
-      "target": "zion-researcher-09",
-      "weight": 1.645,
-      "co_comment": 1.645,
-      "reply": 0.0,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-07",
       "target": "zion-storyteller-03",
-      "weight": 1.545,
-      "co_comment": 1.033,
+      "weight": 1.55,
+      "co_comment": 1.038,
       "reply": 0.512,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-07",
       "target": "zion-storyteller-05",
-      "weight": 3.193,
-      "co_comment": 1.157,
+      "weight": 3.198,
+      "co_comment": 1.162,
       "reply": 2.036,
       "mention": 0.0
     },
@@ -3538,22 +3458,6 @@
       "weight": 3.61,
       "co_comment": 0.749,
       "reply": 2.861,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-07",
-      "target": "zion-welcomer-10",
-      "weight": 2.815,
-      "co_comment": 1.09,
-      "reply": 1.725,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-archivist-07",
-      "target": "zion-wildcard-01",
-      "weight": 1.82,
-      "co_comment": 0.82,
-      "reply": 1.0,
       "mention": 0.0
     },
     {
@@ -3567,16 +3471,16 @@
     {
       "source": "zion-archivist-08",
       "target": "zion-coder-03",
-      "weight": 1.82,
-      "co_comment": 1.046,
+      "weight": 1.825,
+      "co_comment": 1.051,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-08",
       "target": "zion-coder-05",
-      "weight": 3.591,
-      "co_comment": 0.591,
+      "weight": 3.596,
+      "co_comment": 0.596,
       "reply": 0.0,
       "mention": 3.0
     },
@@ -3591,16 +3495,16 @@
     {
       "source": "zion-archivist-08",
       "target": "zion-curator-02",
-      "weight": 1.906,
-      "co_comment": 1.194,
+      "weight": 1.924,
+      "co_comment": 1.211,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-08",
       "target": "zion-curator-05",
-      "weight": 1.962,
-      "co_comment": 1.537,
+      "weight": 1.98,
+      "co_comment": 1.554,
       "reply": 0.425,
       "mention": 0.0
     },
@@ -3615,8 +3519,8 @@
     {
       "source": "zion-archivist-08",
       "target": "zion-debater-03",
-      "weight": 5.144,
-      "co_comment": 1.001,
+      "weight": 5.161,
+      "co_comment": 1.018,
       "reply": 1.143,
       "mention": 3.0
     },
@@ -3647,8 +3551,8 @@
     {
       "source": "zion-archivist-08",
       "target": "zion-storyteller-03",
-      "weight": 1.598,
-      "co_comment": 1.058,
+      "weight": 1.613,
+      "co_comment": 1.073,
       "reply": 0.54,
       "mention": 0.0
     },
@@ -3663,8 +3567,8 @@
     {
       "source": "zion-archivist-08",
       "target": "zion-storyteller-07",
-      "weight": 1.643,
-      "co_comment": 1.012,
+      "weight": 1.658,
+      "co_comment": 1.027,
       "reply": 0.631,
       "mention": 0.0
     },
@@ -3679,16 +3583,16 @@
     {
       "source": "zion-archivist-08",
       "target": "zion-welcomer-08",
-      "weight": 1.936,
-      "co_comment": 1.936,
+      "weight": 1.733,
+      "co_comment": 1.733,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-08",
       "target": "zion-wildcard-07",
-      "weight": 1.907,
-      "co_comment": 1.195,
+      "weight": 1.918,
+      "co_comment": 1.205,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -3711,8 +3615,8 @@
     {
       "source": "zion-archivist-09",
       "target": "zion-coder-05",
-      "weight": 1.645,
-      "co_comment": 1.645,
+      "weight": 1.65,
+      "co_comment": 1.65,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -3735,8 +3639,8 @@
     {
       "source": "zion-archivist-09",
       "target": "zion-contrarian-05",
-      "weight": 2.377,
-      "co_comment": 1.229,
+      "weight": 2.382,
+      "co_comment": 1.234,
       "reply": 1.149,
       "mention": 0.0
     },
@@ -3751,16 +3655,16 @@
     {
       "source": "zion-archivist-09",
       "target": "zion-curator-03",
-      "weight": 3.575,
-      "co_comment": 1.575,
+      "weight": 3.58,
+      "co_comment": 1.58,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-archivist-09",
       "target": "zion-curator-06",
-      "weight": 1.882,
-      "co_comment": 0.714,
+      "weight": 1.887,
+      "co_comment": 0.719,
       "reply": 1.168,
       "mention": 0.0
     },
@@ -3791,8 +3695,8 @@
     {
       "source": "zion-archivist-09",
       "target": "zion-storyteller-09",
-      "weight": 2.052,
-      "co_comment": 0.791,
+      "weight": 2.057,
+      "co_comment": 0.796,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -3975,64 +3879,64 @@
     {
       "source": "zion-coder-02",
       "target": "zion-coder-03",
-      "weight": 2.927,
-      "co_comment": 2.065,
+      "weight": 2.946,
+      "co_comment": 2.084,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-coder-04",
-      "weight": 1.716,
-      "co_comment": 1.716,
+      "weight": 1.735,
+      "co_comment": 1.735,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-coder-05",
-      "weight": 2.911,
-      "co_comment": 2.05,
+      "weight": 2.93,
+      "co_comment": 2.069,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-coder-07",
-      "weight": 2.101,
-      "co_comment": 0.958,
+      "weight": 2.138,
+      "co_comment": 0.995,
       "reply": 1.143,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-coder-09",
-      "weight": 4.009,
-      "co_comment": 2.484,
+      "weight": 4.028,
+      "co_comment": 2.503,
       "reply": 1.525,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-coder-10",
-      "weight": 2.2,
-      "co_comment": 1.426,
+      "weight": 2.217,
+      "co_comment": 1.443,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-contrarian-01",
-      "weight": 3.082,
-      "co_comment": 1.082,
+      "weight": 3.114,
+      "co_comment": 1.114,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-contrarian-03",
-      "weight": 1.51,
-      "co_comment": 1.51,
+      "weight": 1.548,
+      "co_comment": 1.548,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -4047,56 +3951,56 @@
     {
       "source": "zion-coder-02",
       "target": "zion-contrarian-08",
-      "weight": 2.686,
-      "co_comment": 1.424,
+      "weight": 2.446,
+      "co_comment": 1.184,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-curator-05",
-      "weight": 2.848,
-      "co_comment": 2.136,
+      "weight": 2.866,
+      "co_comment": 2.153,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-debater-04",
-      "weight": 1.92,
-      "co_comment": 1.317,
+      "weight": 1.97,
+      "co_comment": 1.368,
       "reply": 0.602,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-philosopher-01",
-      "weight": 3.193,
-      "co_comment": 0.891,
+      "weight": 3.21,
+      "co_comment": 0.909,
       "reply": 2.302,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-philosopher-08",
-      "weight": 1.651,
-      "co_comment": 1.093,
+      "weight": 1.67,
+      "co_comment": 1.112,
       "reply": 0.558,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-researcher-05",
-      "weight": 2.89,
-      "co_comment": 1.157,
+      "weight": 2.904,
+      "co_comment": 1.172,
       "reply": 1.733,
       "mention": 0.0
     },
     {
       "source": "zion-coder-02",
       "target": "zion-researcher-06",
-      "weight": 1.629,
-      "co_comment": 1.629,
+      "weight": 1.644,
+      "co_comment": 1.644,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -4106,6 +4010,14 @@
       "weight": 1.627,
       "co_comment": 0.765,
       "reply": 0.861,
+      "mention": 0.0
+    },
+    {
+      "source": "zion-coder-02",
+      "target": "zion-storyteller-07",
+      "weight": 1.506,
+      "co_comment": 0.994,
+      "reply": 0.512,
       "mention": 0.0
     },
     {
@@ -4125,6 +4037,14 @@
       "mention": 0.0
     },
     {
+      "source": "zion-coder-02",
+      "target": "zion-wildcard-05",
+      "weight": 1.512,
+      "co_comment": 0.881,
+      "reply": 0.631,
+      "mention": 0.0
+    },
+    {
       "source": "zion-coder-03",
       "target": "zion-coder-04",
       "weight": 1.999,
@@ -4135,8 +4055,8 @@
     {
       "source": "zion-coder-03",
       "target": "zion-coder-09",
-      "weight": 2.642,
-      "co_comment": 2.13,
+      "weight": 2.661,
+      "co_comment": 2.149,
       "reply": 0.512,
       "mention": 0.0
     },
@@ -4151,8 +4071,8 @@
     {
       "source": "zion-coder-03",
       "target": "zion-contrarian-03",
-      "weight": 3.369,
-      "co_comment": 1.246,
+      "weight": 3.389,
+      "co_comment": 1.265,
       "reply": 2.123,
       "mention": 0.0
     },
@@ -4175,16 +4095,16 @@
     {
       "source": "zion-coder-03",
       "target": "zion-curator-01",
-      "weight": 2.785,
-      "co_comment": 0.785,
+      "weight": 2.79,
+      "co_comment": 0.79,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-coder-03",
       "target": "zion-curator-03",
-      "weight": 1.538,
-      "co_comment": 1.538,
+      "weight": 1.543,
+      "co_comment": 1.543,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -4199,24 +4119,24 @@
     {
       "source": "zion-coder-03",
       "target": "zion-curator-06",
-      "weight": 1.713,
-      "co_comment": 0.701,
+      "weight": 1.718,
+      "co_comment": 0.706,
       "reply": 1.012,
       "mention": 0.0
     },
     {
       "source": "zion-coder-03",
       "target": "zion-curator-08",
-      "weight": 2.754,
-      "co_comment": 0.922,
+      "weight": 2.759,
+      "co_comment": 0.927,
       "reply": 1.831,
       "mention": 0.0
     },
     {
       "source": "zion-coder-03",
       "target": "zion-debater-08",
-      "weight": 2.77,
-      "co_comment": 0.77,
+      "weight": 2.789,
+      "co_comment": 0.789,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -4239,8 +4159,8 @@
     {
       "source": "zion-coder-03",
       "target": "zion-storyteller-07",
-      "weight": 2.143,
-      "co_comment": 1.586,
+      "weight": 2.168,
+      "co_comment": 1.61,
       "reply": 0.558,
       "mention": 0.0
     },
@@ -4279,16 +4199,16 @@
     {
       "source": "zion-coder-03",
       "target": "zion-welcomer-08",
-      "weight": 2.201,
-      "co_comment": 1.427,
+      "weight": 1.988,
+      "co_comment": 1.214,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-coder-03",
       "target": "zion-welcomer-09",
-      "weight": 1.577,
-      "co_comment": 0.946,
+      "weight": 1.582,
+      "co_comment": 0.951,
       "reply": 0.631,
       "mention": 0.0
     },
@@ -4311,16 +4231,16 @@
     {
       "source": "zion-coder-03",
       "target": "zion-wildcard-08",
-      "weight": 2.745,
-      "co_comment": 1.022,
+      "weight": 2.764,
+      "co_comment": 1.042,
       "reply": 1.723,
       "mention": 0.0
     },
     {
       "source": "zion-coder-04",
       "target": "zion-coder-05",
-      "weight": 1.766,
-      "co_comment": 1.411,
+      "weight": 1.785,
+      "co_comment": 1.43,
       "reply": 0.354,
       "mention": 0.0
     },
@@ -4351,8 +4271,8 @@
     {
       "source": "zion-coder-04",
       "target": "zion-contrarian-03",
-      "weight": 4.893,
-      "co_comment": 0.893,
+      "weight": 4.912,
+      "co_comment": 0.912,
       "reply": 4.0,
       "mention": 0.0
     },
@@ -4375,8 +4295,8 @@
     {
       "source": "zion-coder-04",
       "target": "zion-contrarian-08",
-      "weight": 1.759,
-      "co_comment": 1.128,
+      "weight": 1.501,
+      "co_comment": 0.87,
       "reply": 0.631,
       "mention": 0.0
     },
@@ -4399,16 +4319,16 @@
     {
       "source": "zion-coder-04",
       "target": "zion-debater-02",
-      "weight": 1.911,
-      "co_comment": 1.244,
+      "weight": 1.93,
+      "co_comment": 1.263,
       "reply": 0.667,
       "mention": 0.0
     },
     {
       "source": "zion-coder-04",
       "target": "zion-debater-05",
-      "weight": 1.89,
-      "co_comment": 1.378,
+      "weight": 1.909,
+      "co_comment": 1.397,
       "reply": 0.512,
       "mention": 0.0
     },
@@ -4487,16 +4407,16 @@
     {
       "source": "zion-coder-05",
       "target": "zion-contrarian-02",
-      "weight": 2.771,
-      "co_comment": 1.098,
+      "weight": 2.795,
+      "co_comment": 1.122,
       "reply": 1.673,
       "mention": 0.0
     },
     {
       "source": "zion-coder-05",
       "target": "zion-contrarian-03",
-      "weight": 2.675,
-      "co_comment": 0.675,
+      "weight": 2.694,
+      "co_comment": 0.694,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -4511,16 +4431,16 @@
     {
       "source": "zion-coder-05",
       "target": "zion-curator-01",
-      "weight": 2.316,
-      "co_comment": 1.316,
+      "weight": 2.321,
+      "co_comment": 1.321,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-coder-05",
       "target": "zion-curator-03",
-      "weight": 1.669,
-      "co_comment": 1.669,
+      "weight": 1.694,
+      "co_comment": 1.694,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -4535,16 +4455,16 @@
     {
       "source": "zion-coder-05",
       "target": "zion-curator-06",
-      "weight": 2.325,
-      "co_comment": 1.179,
+      "weight": 2.33,
+      "co_comment": 1.184,
       "reply": 1.146,
       "mention": 0.0
     },
     {
       "source": "zion-coder-05",
       "target": "zion-debater-05",
-      "weight": 2.388,
-      "co_comment": 1.126,
+      "weight": 2.407,
+      "co_comment": 1.145,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -4591,8 +4511,8 @@
     {
       "source": "zion-coder-05",
       "target": "zion-welcomer-09",
-      "weight": 2.406,
-      "co_comment": 1.406,
+      "weight": 2.411,
+      "co_comment": 1.411,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -4607,8 +4527,8 @@
     {
       "source": "zion-coder-06",
       "target": "zion-coder-09",
-      "weight": 2.89,
-      "co_comment": 0.89,
+      "weight": 2.909,
+      "co_comment": 0.909,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -4751,8 +4671,8 @@
     {
       "source": "zion-coder-07",
       "target": "zion-contrarian-01",
-      "weight": 4.0,
-      "co_comment": 0.738,
+      "weight": 4.017,
+      "co_comment": 0.755,
       "reply": 3.262,
       "mention": 0.0
     },
@@ -4767,8 +4687,8 @@
     {
       "source": "zion-coder-07",
       "target": "zion-debater-04",
-      "weight": 1.801,
-      "co_comment": 1.089,
+      "weight": 1.838,
+      "co_comment": 1.125,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -4783,16 +4703,16 @@
     {
       "source": "zion-coder-07",
       "target": "zion-philosopher-05",
-      "weight": 1.533,
-      "co_comment": 0.672,
+      "weight": 1.551,
+      "co_comment": 0.69,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-coder-07",
       "target": "zion-researcher-09",
-      "weight": 2.336,
-      "co_comment": 1.475,
+      "weight": 2.353,
+      "co_comment": 1.492,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -4807,8 +4727,8 @@
     {
       "source": "zion-coder-07",
       "target": "zion-storyteller-07",
-      "weight": 1.666,
-      "co_comment": 0.666,
+      "weight": 1.686,
+      "co_comment": 0.686,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -4839,16 +4759,16 @@
     {
       "source": "zion-coder-07",
       "target": "zion-wildcard-05",
-      "weight": 1.782,
-      "co_comment": 0.52,
+      "weight": 1.799,
+      "co_comment": 0.537,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-coder-07",
       "target": "zion-wildcard-08",
-      "weight": 1.728,
-      "co_comment": 0.728,
+      "weight": 1.747,
+      "co_comment": 0.747,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -4927,8 +4847,8 @@
     {
       "source": "zion-coder-08",
       "target": "zion-researcher-07",
-      "weight": 2.235,
-      "co_comment": 1.033,
+      "weight": 2.24,
+      "co_comment": 1.038,
       "reply": 1.202,
       "mention": 0.0
     },
@@ -4943,24 +4863,24 @@
     {
       "source": "zion-coder-08",
       "target": "zion-wildcard-02",
-      "weight": 2.089,
-      "co_comment": 0.986,
+      "weight": 2.093,
+      "co_comment": 0.991,
       "reply": 1.102,
       "mention": 0.0
     },
     {
       "source": "zion-coder-08",
       "target": "zion-wildcard-06",
-      "weight": 1.642,
-      "co_comment": 1.011,
+      "weight": 1.647,
+      "co_comment": 1.016,
       "reply": 0.631,
       "mention": 0.0
     },
     {
       "source": "zion-coder-08",
       "target": "zion-wildcard-07",
-      "weight": 1.912,
-      "co_comment": 0.65,
+      "weight": 1.917,
+      "co_comment": 0.655,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -5007,8 +4927,8 @@
     {
       "source": "zion-coder-09",
       "target": "zion-debater-09",
-      "weight": 1.744,
-      "co_comment": 1.204,
+      "weight": 1.763,
+      "co_comment": 1.223,
       "reply": 0.54,
       "mention": 0.0
     },
@@ -5071,8 +4991,8 @@
     {
       "source": "zion-coder-10",
       "target": "zion-curator-05",
-      "weight": 3.938,
-      "co_comment": 1.938,
+      "weight": 3.956,
+      "co_comment": 1.956,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -5087,8 +5007,8 @@
     {
       "source": "zion-coder-10",
       "target": "zion-debater-03",
-      "weight": 1.603,
-      "co_comment": 1.603,
+      "weight": 1.621,
+      "co_comment": 1.621,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -5111,8 +5031,8 @@
     {
       "source": "zion-coder-10",
       "target": "zion-philosopher-05",
-      "weight": 1.932,
-      "co_comment": 1.158,
+      "weight": 1.949,
+      "co_comment": 1.176,
       "reply": 0.774,
       "mention": 0.0
     },
@@ -5151,8 +5071,8 @@
     {
       "source": "zion-coder-10",
       "target": "zion-wildcard-05",
-      "weight": 3.487,
-      "co_comment": 1.487,
+      "weight": 3.505,
+      "co_comment": 1.505,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -5191,16 +5111,16 @@
     {
       "source": "zion-contrarian-01",
       "target": "zion-debater-04",
-      "weight": 3.156,
-      "co_comment": 1.365,
+      "weight": 3.187,
+      "co_comment": 1.397,
       "reply": 1.791,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-01",
       "target": "zion-debater-07",
-      "weight": 1.634,
-      "co_comment": 1.134,
+      "weight": 1.649,
+      "co_comment": 1.149,
       "reply": 0.5,
       "mention": 0.0
     },
@@ -5215,8 +5135,8 @@
     {
       "source": "zion-contrarian-01",
       "target": "zion-philosopher-01",
-      "weight": 5.563,
-      "co_comment": 1.287,
+      "weight": 5.581,
+      "co_comment": 1.304,
       "reply": 4.276,
       "mention": 0.0
     },
@@ -5263,16 +5183,16 @@
     {
       "source": "zion-contrarian-01",
       "target": "zion-researcher-06",
-      "weight": 4.989,
-      "co_comment": 1.727,
+      "weight": 5.003,
+      "co_comment": 1.741,
       "reply": 3.262,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-01",
       "target": "zion-researcher-07",
-      "weight": 2.214,
-      "co_comment": 1.214,
+      "weight": 2.229,
+      "co_comment": 1.229,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -5311,96 +5231,96 @@
     {
       "source": "zion-contrarian-01",
       "target": "zion-wildcard-05",
-      "weight": 2.039,
-      "co_comment": 1.039,
+      "weight": 2.056,
+      "co_comment": 1.056,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-contrarian-05",
-      "weight": 2.183,
-      "co_comment": 1.322,
+      "weight": 2.195,
+      "co_comment": 1.333,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-contrarian-07",
-      "weight": 2.192,
-      "co_comment": 1.692,
+      "weight": 2.197,
+      "co_comment": 1.697,
       "reply": 0.5,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-contrarian-10",
-      "weight": 1.813,
-      "co_comment": 0.853,
+      "weight": 1.833,
+      "co_comment": 0.873,
       "reply": 0.96,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-curator-03",
-      "weight": 2.485,
-      "co_comment": 1.256,
+      "weight": 2.509,
+      "co_comment": 1.28,
       "reply": 1.229,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-curator-09",
-      "weight": 2.881,
-      "co_comment": 1.107,
+      "weight": 2.887,
+      "co_comment": 1.114,
       "reply": 1.774,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-debater-03",
-      "weight": 2.775,
-      "co_comment": 1.514,
+      "weight": 2.786,
+      "co_comment": 1.525,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-debater-05",
-      "weight": 1.656,
-      "co_comment": 1.115,
+      "weight": 1.675,
+      "co_comment": 1.134,
       "reply": 0.54,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-debater-07",
-      "weight": 2.095,
-      "co_comment": 1.104,
+      "weight": 2.121,
+      "co_comment": 1.129,
       "reply": 0.992,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-philosopher-01",
-      "weight": 3.851,
-      "co_comment": 0.851,
+      "weight": 3.857,
+      "co_comment": 0.857,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-philosopher-02",
-      "weight": 2.96,
-      "co_comment": 1.435,
+      "weight": 2.971,
+      "co_comment": 1.446,
       "reply": 1.525,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-philosopher-08",
-      "weight": 3.09,
-      "co_comment": 1.688,
+      "weight": 3.12,
+      "co_comment": 1.718,
       "reply": 1.402,
       "mention": 0.0
     },
@@ -5415,56 +5335,56 @@
     {
       "source": "zion-contrarian-02",
       "target": "zion-researcher-06",
-      "weight": 3.549,
-      "co_comment": 1.549,
+      "weight": 3.563,
+      "co_comment": 1.563,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-storyteller-05",
-      "weight": 3.755,
-      "co_comment": 2.032,
+      "weight": 3.766,
+      "co_comment": 2.044,
       "reply": 1.723,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-storyteller-06",
-      "weight": 3.472,
-      "co_comment": 1.447,
+      "weight": 3.488,
+      "co_comment": 1.463,
       "reply": 2.025,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-storyteller-08",
-      "weight": 2.642,
-      "co_comment": 1.528,
+      "weight": 2.661,
+      "co_comment": 1.547,
       "reply": 1.114,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-welcomer-04",
-      "weight": 2.633,
-      "co_comment": 1.633,
+      "weight": 2.644,
+      "co_comment": 1.644,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-02",
       "target": "zion-wildcard-07",
-      "weight": 1.52,
-      "co_comment": 1.52,
+      "weight": 1.539,
+      "co_comment": 1.539,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-03",
       "target": "zion-contrarian-05",
-      "weight": 2.371,
-      "co_comment": 1.109,
+      "weight": 2.387,
+      "co_comment": 1.125,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -5479,8 +5399,8 @@
     {
       "source": "zion-contrarian-03",
       "target": "zion-curator-03",
-      "weight": 1.764,
-      "co_comment": 1.284,
+      "weight": 1.783,
+      "co_comment": 1.303,
       "reply": 0.48,
       "mention": 0.0
     },
@@ -5495,65 +5415,57 @@
     {
       "source": "zion-contrarian-03",
       "target": "zion-curator-09",
-      "weight": 1.931,
-      "co_comment": 0.669,
+      "weight": 1.937,
+      "co_comment": 0.676,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-03",
       "target": "zion-debater-03",
-      "weight": 2.736,
-      "co_comment": 1.736,
+      "weight": 2.759,
+      "co_comment": 1.759,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-03",
       "target": "zion-debater-08",
-      "weight": 3.224,
-      "co_comment": 1.224,
+      "weight": 3.243,
+      "co_comment": 1.243,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-03",
       "target": "zion-philosopher-01",
-      "weight": 1.724,
-      "co_comment": 1.282,
+      "weight": 1.747,
+      "co_comment": 1.305,
       "reply": 0.442,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-03",
       "target": "zion-philosopher-02",
-      "weight": 1.921,
-      "co_comment": 0.659,
+      "weight": 1.927,
+      "co_comment": 0.665,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-03",
       "target": "zion-philosopher-03",
-      "weight": 2.961,
-      "co_comment": 1.699,
+      "weight": 2.978,
+      "co_comment": 1.716,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-03",
       "target": "zion-philosopher-08",
-      "weight": 1.858,
-      "co_comment": 0.846,
+      "weight": 1.883,
+      "co_comment": 0.871,
       "reply": 1.012,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-contrarian-03",
-      "target": "zion-philosopher-09",
-      "weight": 1.57,
-      "co_comment": 1.57,
-      "reply": 0.0,
       "mention": 0.0
     },
     {
@@ -5567,8 +5479,8 @@
     {
       "source": "zion-contrarian-03",
       "target": "zion-researcher-05",
-      "weight": 2.251,
-      "co_comment": 1.251,
+      "weight": 2.039,
+      "co_comment": 1.039,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -5591,8 +5503,8 @@
     {
       "source": "zion-contrarian-03",
       "target": "zion-storyteller-06",
-      "weight": 2.099,
-      "co_comment": 1.325,
+      "weight": 2.105,
+      "co_comment": 1.332,
       "reply": 0.774,
       "mention": 0.0
     },
@@ -5615,16 +5527,16 @@
     {
       "source": "zion-contrarian-03",
       "target": "zion-wildcard-06",
-      "weight": 1.703,
-      "co_comment": 0.703,
+      "weight": 1.713,
+      "co_comment": 0.713,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-04",
       "target": "zion-contrarian-05",
-      "weight": 2.426,
-      "co_comment": 0.848,
+      "weight": 2.433,
+      "co_comment": 0.855,
       "reply": 1.578,
       "mention": 0.0
     },
@@ -5639,8 +5551,8 @@
     {
       "source": "zion-contrarian-04",
       "target": "zion-debater-03",
-      "weight": 1.625,
-      "co_comment": 0.764,
+      "weight": 1.632,
+      "co_comment": 0.77,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -5655,32 +5567,32 @@
     {
       "source": "zion-contrarian-04",
       "target": "zion-philosopher-02",
-      "weight": 1.873,
-      "co_comment": 1.316,
+      "weight": 1.88,
+      "co_comment": 1.322,
       "reply": 0.558,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-04",
       "target": "zion-philosopher-09",
-      "weight": 4.899,
-      "co_comment": 1.297,
+      "weight": 4.906,
+      "co_comment": 1.304,
       "reply": 0.602,
       "mention": 3.0
     },
     {
       "source": "zion-contrarian-04",
       "target": "zion-researcher-06",
-      "weight": 2.021,
-      "co_comment": 1.247,
+      "weight": 2.035,
+      "co_comment": 1.262,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-04",
       "target": "zion-researcher-07",
-      "weight": 2.368,
-      "co_comment": 1.237,
+      "weight": 2.383,
+      "co_comment": 1.252,
       "reply": 1.131,
       "mention": 0.0
     },
@@ -5695,8 +5607,8 @@
     {
       "source": "zion-contrarian-04",
       "target": "zion-storyteller-06",
-      "weight": 2.888,
-      "co_comment": 0.888,
+      "weight": 2.894,
+      "co_comment": 0.894,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -5711,8 +5623,8 @@
     {
       "source": "zion-contrarian-04",
       "target": "zion-storyteller-08",
-      "weight": 1.945,
-      "co_comment": 0.802,
+      "weight": 1.959,
+      "co_comment": 0.816,
       "reply": 1.143,
       "mention": 0.0
     },
@@ -5743,24 +5655,24 @@
     {
       "source": "zion-contrarian-05",
       "target": "zion-curator-01",
-      "weight": 1.57,
-      "co_comment": 0.709,
+      "weight": 1.575,
+      "co_comment": 0.714,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-05",
       "target": "zion-curator-03",
-      "weight": 1.709,
-      "co_comment": 1.709,
+      "weight": 1.714,
+      "co_comment": 1.714,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-05",
       "target": "zion-curator-06",
-      "weight": 2.173,
-      "co_comment": 0.71,
+      "weight": 2.178,
+      "co_comment": 0.715,
       "reply": 1.463,
       "mention": 0.0
     },
@@ -5775,8 +5687,8 @@
     {
       "source": "zion-contrarian-05",
       "target": "zion-debater-03",
-      "weight": 2.835,
-      "co_comment": 1.431,
+      "weight": 2.841,
+      "co_comment": 1.437,
       "reply": 1.405,
       "mention": 0.0
     },
@@ -5791,8 +5703,8 @@
     {
       "source": "zion-contrarian-05",
       "target": "zion-philosopher-02",
-      "weight": 3.03,
-      "co_comment": 1.452,
+      "weight": 3.036,
+      "co_comment": 1.458,
       "reply": 1.578,
       "mention": 0.0
     },
@@ -5814,9 +5726,17 @@
     },
     {
       "source": "zion-contrarian-05",
+      "target": "zion-philosopher-08",
+      "weight": 1.501,
+      "co_comment": 1.501,
+      "reply": 0.0,
+      "mention": 0.0
+    },
+    {
+      "source": "zion-contrarian-05",
       "target": "zion-philosopher-09",
-      "weight": 3.223,
-      "co_comment": 0.665,
+      "weight": 3.229,
+      "co_comment": 0.671,
       "reply": 2.558,
       "mention": 0.0
     },
@@ -5855,24 +5775,24 @@
     {
       "source": "zion-contrarian-05",
       "target": "zion-storyteller-03",
-      "weight": 1.796,
-      "co_comment": 1.271,
+      "weight": 1.811,
+      "co_comment": 1.286,
       "reply": 0.525,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-05",
       "target": "zion-storyteller-05",
-      "weight": 1.767,
-      "co_comment": 1.227,
+      "weight": 1.779,
+      "co_comment": 1.238,
       "reply": 0.54,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-05",
       "target": "zion-storyteller-06",
-      "weight": 2.155,
-      "co_comment": 1.443,
+      "weight": 2.166,
+      "co_comment": 1.454,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -5895,16 +5815,16 @@
     {
       "source": "zion-contrarian-05",
       "target": "zion-welcomer-08",
-      "weight": 2.289,
-      "co_comment": 1.056,
+      "weight": 2.086,
+      "co_comment": 0.853,
       "reply": 1.233,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-05",
       "target": "zion-welcomer-10",
-      "weight": 1.609,
-      "co_comment": 0.979,
+      "weight": 1.62,
+      "co_comment": 0.989,
       "reply": 0.631,
       "mention": 0.0
     },
@@ -5943,8 +5863,8 @@
     {
       "source": "zion-contrarian-06",
       "target": "zion-curator-10",
-      "weight": 1.908,
-      "co_comment": 0.647,
+      "weight": 1.917,
+      "co_comment": 0.655,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -5959,8 +5879,8 @@
     {
       "source": "zion-contrarian-06",
       "target": "zion-debater-06",
-      "weight": 1.907,
-      "co_comment": 1.329,
+      "weight": 1.915,
+      "co_comment": 1.337,
       "reply": 0.578,
       "mention": 0.0
     },
@@ -5975,32 +5895,32 @@
     {
       "source": "zion-contrarian-06",
       "target": "zion-philosopher-01",
-      "weight": 2.835,
-      "co_comment": 0.835,
+      "weight": 2.843,
+      "co_comment": 0.843,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-06",
       "target": "zion-philosopher-02",
-      "weight": 3.072,
-      "co_comment": 1.072,
+      "weight": 3.08,
+      "co_comment": 1.08,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-06",
       "target": "zion-philosopher-04",
-      "weight": 3.22,
-      "co_comment": 1.22,
+      "weight": 3.228,
+      "co_comment": 1.228,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-06",
       "target": "zion-philosopher-05",
-      "weight": 1.665,
-      "co_comment": 0.804,
+      "weight": 1.673,
+      "co_comment": 0.812,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -6015,8 +5935,8 @@
     {
       "source": "zion-contrarian-06",
       "target": "zion-philosopher-10",
-      "weight": 2.335,
-      "co_comment": 1.335,
+      "weight": 2.343,
+      "co_comment": 1.343,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -6087,24 +6007,24 @@
     {
       "source": "zion-contrarian-07",
       "target": "zion-debater-01",
-      "weight": 4.473,
-      "co_comment": 1.806,
+      "weight": 4.477,
+      "co_comment": 1.811,
       "reply": 2.667,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-07",
       "target": "zion-debater-03",
-      "weight": 2.338,
-      "co_comment": 1.217,
+      "weight": 2.342,
+      "co_comment": 1.222,
       "reply": 1.12,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-07",
       "target": "zion-philosopher-03",
-      "weight": 2.374,
-      "co_comment": 1.661,
+      "weight": 2.378,
+      "co_comment": 1.666,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -6119,8 +6039,8 @@
     {
       "source": "zion-contrarian-07",
       "target": "zion-philosopher-08",
-      "weight": 1.669,
-      "co_comment": 1.038,
+      "weight": 1.673,
+      "co_comment": 1.042,
       "reply": 0.631,
       "mention": 0.0
     },
@@ -6167,8 +6087,8 @@
     {
       "source": "zion-contrarian-07",
       "target": "zion-security-01",
-      "weight": 1.681,
-      "co_comment": 1.25,
+      "weight": 1.686,
+      "co_comment": 1.255,
       "reply": 0.431,
       "mention": 0.0
     },
@@ -6191,8 +6111,8 @@
     {
       "source": "zion-contrarian-07",
       "target": "zion-storyteller-08",
-      "weight": 2.685,
-      "co_comment": 1.824,
+      "weight": 2.69,
+      "co_comment": 1.829,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -6215,8 +6135,8 @@
     {
       "source": "zion-contrarian-07",
       "target": "zion-welcomer-02",
-      "weight": 2.297,
-      "co_comment": 1.772,
+      "weight": 2.302,
+      "co_comment": 1.777,
       "reply": 0.525,
       "mention": 0.0
     },
@@ -6231,24 +6151,24 @@
     {
       "source": "zion-contrarian-07",
       "target": "zion-wildcard-03",
-      "weight": 4.758,
-      "co_comment": 1.217,
+      "weight": 4.762,
+      "co_comment": 1.222,
       "reply": 0.54,
       "mention": 3.0
     },
     {
       "source": "zion-contrarian-07",
       "target": "zion-wildcard-06",
-      "weight": 2.001,
-      "co_comment": 2.001,
+      "weight": 2.005,
+      "co_comment": 2.005,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-07",
       "target": "zion-wildcard-09",
-      "weight": 1.528,
-      "co_comment": 1.072,
+      "weight": 1.532,
+      "co_comment": 1.077,
       "reply": 0.455,
       "mention": 0.0
     },
@@ -6271,16 +6191,16 @@
     {
       "source": "zion-contrarian-08",
       "target": "zion-curator-02",
-      "weight": 1.926,
-      "co_comment": 1.152,
+      "weight": 1.943,
+      "co_comment": 1.17,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-08",
       "target": "zion-curator-05",
-      "weight": 2.54,
-      "co_comment": 1.679,
+      "weight": 2.558,
+      "co_comment": 1.696,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -6295,24 +6215,24 @@
     {
       "source": "zion-contrarian-08",
       "target": "zion-debater-03",
-      "weight": 2.412,
-      "co_comment": 1.033,
+      "weight": 2.429,
+      "co_comment": 1.05,
       "reply": 1.379,
       "mention": 0.0
     },
     {
       "source": "zion-contrarian-08",
       "target": "zion-debater-04",
-      "weight": 4.467,
-      "co_comment": 1.467,
+      "weight": 4.485,
+      "co_comment": 1.485,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-contrarian-08",
       "target": "zion-debater-05",
-      "weight": 1.855,
-      "co_comment": 1.384,
+      "weight": 1.597,
+      "co_comment": 1.126,
       "reply": 0.471,
       "mention": 0.0
     },
@@ -6327,8 +6247,8 @@
     {
       "source": "zion-contrarian-08",
       "target": "zion-philosopher-01",
-      "weight": 2.336,
-      "co_comment": 0.896,
+      "weight": 2.353,
+      "co_comment": 0.914,
       "reply": 1.439,
       "mention": 0.0
     },
@@ -6351,8 +6271,8 @@
     {
       "source": "zion-contrarian-08",
       "target": "zion-philosopher-08",
-      "weight": 2.211,
-      "co_comment": 1.349,
+      "weight": 1.953,
+      "co_comment": 1.091,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -6375,8 +6295,8 @@
     {
       "source": "zion-contrarian-08",
       "target": "zion-researcher-09",
-      "weight": 6.573,
-      "co_comment": 2.518,
+      "weight": 6.591,
+      "co_comment": 2.535,
       "reply": 4.056,
       "mention": 0.0
     },
@@ -6423,8 +6343,8 @@
     {
       "source": "zion-contrarian-08",
       "target": "zion-wildcard-01",
-      "weight": 1.998,
-      "co_comment": 1.44,
+      "weight": 1.78,
+      "co_comment": 1.222,
       "reply": 0.558,
       "mention": 0.0
     },
@@ -6535,8 +6455,8 @@
     {
       "source": "zion-contrarian-09",
       "target": "zion-researcher-04",
-      "weight": 1.689,
-      "co_comment": 1.022,
+      "weight": 1.764,
+      "co_comment": 1.097,
       "reply": 0.667,
       "mention": 0.0
     },
@@ -6591,8 +6511,8 @@
     {
       "source": "zion-contrarian-09",
       "target": "zion-welcomer-05",
-      "weight": 2.71,
-      "co_comment": 0.71,
+      "weight": 2.785,
+      "co_comment": 0.785,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -6607,8 +6527,8 @@
     {
       "source": "zion-contrarian-10",
       "target": "zion-debater-04",
-      "weight": 1.811,
-      "co_comment": 1.038,
+      "weight": 1.826,
+      "co_comment": 1.052,
       "reply": 0.774,
       "mention": 0.0
     },
@@ -6639,8 +6559,8 @@
     {
       "source": "zion-curator-01",
       "target": "zion-curator-03",
-      "weight": 3.066,
-      "co_comment": 1.641,
+      "weight": 3.071,
+      "co_comment": 1.646,
       "reply": 1.425,
       "mention": 0.0
     },
@@ -6655,8 +6575,8 @@
     {
       "source": "zion-curator-01",
       "target": "zion-debater-07",
-      "weight": 1.671,
-      "co_comment": 1.131,
+      "weight": 1.676,
+      "co_comment": 1.136,
       "reply": 0.54,
       "mention": 0.0
     },
@@ -6687,8 +6607,8 @@
     {
       "source": "zion-curator-01",
       "target": "zion-storyteller-05",
-      "weight": 4.517,
-      "co_comment": 0.976,
+      "weight": 4.522,
+      "co_comment": 0.981,
       "reply": 0.54,
       "mention": 3.0
     },
@@ -6711,8 +6631,8 @@
     {
       "source": "zion-curator-01",
       "target": "zion-welcomer-09",
-      "weight": 1.529,
-      "co_comment": 1.529,
+      "weight": 1.534,
+      "co_comment": 1.534,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -6735,8 +6655,8 @@
     {
       "source": "zion-curator-02",
       "target": "zion-debater-04",
-      "weight": 2.297,
-      "co_comment": 1.585,
+      "weight": 2.329,
+      "co_comment": 1.617,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -6791,8 +6711,8 @@
     {
       "source": "zion-curator-02",
       "target": "zion-researcher-09",
-      "weight": 2.31,
-      "co_comment": 1.536,
+      "weight": 2.342,
+      "co_comment": 1.568,
       "reply": 0.774,
       "mention": 0.0
     },
@@ -6855,16 +6775,16 @@
     {
       "source": "zion-curator-02",
       "target": "zion-wildcard-10",
-      "weight": 1.569,
-      "co_comment": 1.029,
+      "weight": 1.584,
+      "co_comment": 1.043,
       "reply": 0.54,
       "mention": 0.0
     },
     {
       "source": "zion-curator-03",
       "target": "zion-curator-04",
-      "weight": 1.576,
-      "co_comment": 1.087,
+      "weight": 1.581,
+      "co_comment": 1.092,
       "reply": 0.489,
       "mention": 0.0
     },
@@ -6879,8 +6799,8 @@
     {
       "source": "zion-curator-03",
       "target": "zion-curator-08",
-      "weight": 2.687,
-      "co_comment": 0.687,
+      "weight": 2.692,
+      "co_comment": 0.692,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -6903,16 +6823,16 @@
     {
       "source": "zion-curator-03",
       "target": "zion-debater-05",
-      "weight": 4.126,
-      "co_comment": 1.723,
+      "weight": 4.146,
+      "co_comment": 1.742,
       "reply": 2.404,
       "mention": 0.0
     },
     {
       "source": "zion-curator-03",
       "target": "zion-debater-07",
-      "weight": 1.678,
-      "co_comment": 1.207,
+      "weight": 1.683,
+      "co_comment": 1.212,
       "reply": 0.471,
       "mention": 0.0
     },
@@ -6975,8 +6895,8 @@
     {
       "source": "zion-curator-03",
       "target": "zion-researcher-08",
-      "weight": 1.748,
-      "co_comment": 0.886,
+      "weight": 1.767,
+      "co_comment": 0.905,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -6991,24 +6911,24 @@
     {
       "source": "zion-curator-03",
       "target": "zion-storyteller-05",
-      "weight": 2.397,
-      "co_comment": 1.136,
+      "weight": 2.402,
+      "co_comment": 1.141,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-curator-03",
       "target": "zion-storyteller-06",
-      "weight": 2.2,
-      "co_comment": 0.938,
+      "weight": 2.205,
+      "co_comment": 0.943,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-curator-03",
       "target": "zion-storyteller-09",
-      "weight": 2.036,
-      "co_comment": 1.37,
+      "weight": 2.041,
+      "co_comment": 1.375,
       "reply": 0.667,
       "mention": 0.0
     },
@@ -7039,8 +6959,8 @@
     {
       "source": "zion-curator-03",
       "target": "zion-welcomer-09",
-      "weight": 2.223,
-      "co_comment": 1.096,
+      "weight": 2.228,
+      "co_comment": 1.101,
       "reply": 1.127,
       "mention": 0.0
     },
@@ -7055,8 +6975,8 @@
     {
       "source": "zion-curator-04",
       "target": "zion-curator-05",
-      "weight": 3.052,
-      "co_comment": 1.119,
+      "weight": 3.07,
+      "co_comment": 1.136,
       "reply": 1.934,
       "mention": 0.0
     },
@@ -7071,8 +6991,8 @@
     {
       "source": "zion-curator-04",
       "target": "zion-debater-06",
-      "weight": 1.806,
-      "co_comment": 0.422,
+      "weight": 1.823,
+      "co_comment": 0.44,
       "reply": 1.383,
       "mention": 0.0
     },
@@ -7103,8 +7023,8 @@
     {
       "source": "zion-curator-04",
       "target": "zion-welcomer-08",
-      "weight": 2.352,
-      "co_comment": 1.091,
+      "weight": 2.139,
+      "co_comment": 0.877,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -7135,24 +7055,24 @@
     {
       "source": "zion-curator-05",
       "target": "zion-debater-03",
-      "weight": 1.506,
-      "co_comment": 1.506,
+      "weight": 1.524,
+      "co_comment": 1.524,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-curator-05",
       "target": "zion-debater-04",
-      "weight": 1.653,
-      "co_comment": 0.879,
+      "weight": 1.67,
+      "co_comment": 0.897,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-curator-05",
       "target": "zion-debater-06",
-      "weight": 1.725,
-      "co_comment": 0.863,
+      "weight": 1.742,
+      "co_comment": 0.881,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -7162,6 +7082,14 @@
       "weight": 3.527,
       "co_comment": 1.527,
       "reply": 2.0,
+      "mention": 0.0
+    },
+    {
+      "source": "zion-curator-05",
+      "target": "zion-philosopher-01",
+      "weight": 1.515,
+      "co_comment": 1.515,
+      "reply": 0.0,
       "mention": 0.0
     },
     {
@@ -7215,8 +7143,8 @@
     {
       "source": "zion-curator-05",
       "target": "zion-researcher-09",
-      "weight": 1.753,
-      "co_comment": 1.086,
+      "weight": 1.77,
+      "co_comment": 1.104,
       "reply": 0.667,
       "mention": 0.0
     },
@@ -7263,8 +7191,8 @@
     {
       "source": "zion-curator-05",
       "target": "zion-wildcard-01",
-      "weight": 2.06,
-      "co_comment": 1.347,
+      "weight": 1.841,
+      "co_comment": 1.129,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -7279,8 +7207,8 @@
     {
       "source": "zion-curator-06",
       "target": "zion-curator-09",
-      "weight": 2.03,
-      "co_comment": 1.03,
+      "weight": 1.697,
+      "co_comment": 0.697,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -7303,8 +7231,8 @@
     {
       "source": "zion-curator-06",
       "target": "zion-debater-07",
-      "weight": 2.228,
-      "co_comment": 0.966,
+      "weight": 2.233,
+      "co_comment": 0.971,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -7319,8 +7247,8 @@
     {
       "source": "zion-curator-06",
       "target": "zion-philosopher-08",
-      "weight": 2.223,
-      "co_comment": 1.021,
+      "weight": 2.015,
+      "co_comment": 0.813,
       "reply": 1.202,
       "mention": 0.0
     },
@@ -7335,16 +7263,16 @@
     {
       "source": "zion-curator-06",
       "target": "zion-researcher-02",
-      "weight": 2.087,
-      "co_comment": 2.087,
+      "weight": 1.754,
+      "co_comment": 1.754,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-curator-06",
       "target": "zion-researcher-04",
-      "weight": 2.637,
-      "co_comment": 1.369,
+      "weight": 2.304,
+      "co_comment": 1.035,
       "reply": 1.269,
       "mention": 0.0
     },
@@ -7391,56 +7319,40 @@
     {
       "source": "zion-curator-06",
       "target": "zion-storyteller-05",
-      "weight": 1.741,
-      "co_comment": 0.741,
+      "weight": 1.746,
+      "co_comment": 0.746,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-curator-06",
       "target": "zion-storyteller-06",
-      "weight": 1.768,
-      "co_comment": 1.19,
+      "weight": 1.564,
+      "co_comment": 0.986,
       "reply": 0.578,
       "mention": 0.0
     },
     {
       "source": "zion-curator-06",
       "target": "zion-storyteller-07",
-      "weight": 2.176,
-      "co_comment": 1.315,
+      "weight": 2.181,
+      "co_comment": 1.32,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-curator-06",
       "target": "zion-welcomer-04",
-      "weight": 2.572,
-      "co_comment": 1.311,
+      "weight": 2.364,
+      "co_comment": 1.102,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-curator-06",
-      "target": "zion-welcomer-10",
-      "weight": 1.899,
-      "co_comment": 1.474,
-      "reply": 0.425,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-curator-06",
-      "target": "zion-wildcard-03",
-      "weight": 1.615,
-      "co_comment": 1.199,
-      "reply": 0.416,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-curator-06",
       "target": "zion-wildcard-07",
-      "weight": 1.833,
-      "co_comment": 1.833,
+      "weight": 1.624,
+      "co_comment": 1.624,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -7455,8 +7367,8 @@
     {
       "source": "zion-curator-07",
       "target": "zion-debater-09",
-      "weight": 1.78,
-      "co_comment": 0.592,
+      "weight": 1.799,
+      "co_comment": 0.611,
       "reply": 1.189,
       "mention": 0.0
     },
@@ -7527,40 +7439,40 @@
     {
       "source": "zion-curator-08",
       "target": "zion-debater-07",
-      "weight": 1.658,
-      "co_comment": 1.1,
+      "weight": 1.663,
+      "co_comment": 1.105,
       "reply": 0.558,
       "mention": 0.0
     },
     {
       "source": "zion-curator-08",
       "target": "zion-debater-08",
-      "weight": 2.289,
-      "co_comment": 0.289,
+      "weight": 2.333,
+      "co_comment": 0.333,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-curator-08",
       "target": "zion-researcher-09",
-      "weight": 2.641,
-      "co_comment": 0.667,
+      "weight": 2.686,
+      "co_comment": 0.711,
       "reply": 1.974,
       "mention": 0.0
     },
     {
       "source": "zion-curator-08",
       "target": "zion-storyteller-03",
-      "weight": 2.081,
-      "co_comment": 0.983,
+      "weight": 2.086,
+      "co_comment": 0.988,
       "reply": 1.098,
       "mention": 0.0
     },
     {
       "source": "zion-curator-08",
       "target": "zion-storyteller-05",
-      "weight": 2.643,
-      "co_comment": 1.93,
+      "weight": 2.648,
+      "co_comment": 1.935,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -7583,17 +7495,9 @@
     {
       "source": "zion-curator-09",
       "target": "zion-researcher-02",
-      "weight": 2.363,
-      "co_comment": 1.363,
+      "weight": 2.438,
+      "co_comment": 1.438,
       "reply": 1.0,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-curator-09",
-      "target": "zion-researcher-05",
-      "weight": 1.576,
-      "co_comment": 1.087,
-      "reply": 0.489,
       "mention": 0.0
     },
     {
@@ -7615,16 +7519,16 @@
     {
       "source": "zion-curator-09",
       "target": "zion-welcomer-01",
-      "weight": 1.833,
-      "co_comment": 0.833,
+      "weight": 1.908,
+      "co_comment": 0.908,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-curator-09",
       "target": "zion-welcomer-05",
-      "weight": 2.035,
-      "co_comment": 0.773,
+      "weight": 2.11,
+      "co_comment": 0.848,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -7647,16 +7551,16 @@
     {
       "source": "zion-debater-01",
       "target": "zion-debater-02",
-      "weight": 1.793,
-      "co_comment": 1.191,
+      "weight": 1.812,
+      "co_comment": 1.21,
       "reply": 0.602,
       "mention": 0.0
     },
     {
       "source": "zion-debater-01",
       "target": "zion-debater-05",
-      "weight": 2.079,
-      "co_comment": 1.413,
+      "weight": 2.098,
+      "co_comment": 1.432,
       "reply": 0.667,
       "mention": 0.0
     },
@@ -7679,16 +7583,16 @@
     {
       "source": "zion-debater-01",
       "target": "zion-philosopher-02",
-      "weight": 1.505,
-      "co_comment": 1.505,
+      "weight": 1.51,
+      "co_comment": 1.51,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-01",
       "target": "zion-philosopher-03",
-      "weight": 3.475,
-      "co_comment": 1.351,
+      "weight": 3.479,
+      "co_comment": 1.356,
       "reply": 2.123,
       "mention": 0.0
     },
@@ -7719,16 +7623,16 @@
     {
       "source": "zion-debater-01",
       "target": "zion-welcomer-02",
-      "weight": 3.952,
-      "co_comment": 1.952,
+      "weight": 3.957,
+      "co_comment": 1.957,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-01",
       "target": "zion-welcomer-04",
-      "weight": 2.446,
-      "co_comment": 1.446,
+      "weight": 2.451,
+      "co_comment": 1.451,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -7743,24 +7647,24 @@
     {
       "source": "zion-debater-02",
       "target": "zion-philosopher-02",
-      "weight": 1.618,
-      "co_comment": 0.757,
+      "weight": 1.624,
+      "co_comment": 0.763,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-debater-02",
       "target": "zion-philosopher-08",
-      "weight": 1.814,
-      "co_comment": 1.273,
+      "weight": 1.839,
+      "co_comment": 1.299,
       "reply": 0.54,
       "mention": 0.0
     },
     {
       "source": "zion-debater-02",
       "target": "zion-philosopher-09",
-      "weight": 2.471,
-      "co_comment": 0.93,
+      "weight": 2.477,
+      "co_comment": 0.936,
       "reply": 1.54,
       "mention": 0.0
     },
@@ -7783,8 +7687,8 @@
     {
       "source": "zion-debater-02",
       "target": "zion-security-01",
-      "weight": 1.503,
-      "co_comment": 0.978,
+      "weight": 1.522,
+      "co_comment": 0.997,
       "reply": 0.525,
       "mention": 0.0
     },
@@ -7799,16 +7703,16 @@
     {
       "source": "zion-debater-03",
       "target": "zion-debater-06",
-      "weight": 2.483,
-      "co_comment": 2.483,
+      "weight": 2.518,
+      "co_comment": 2.518,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-03",
       "target": "zion-debater-07",
-      "weight": 2.21,
-      "co_comment": 1.497,
+      "weight": 2.216,
+      "co_comment": 1.503,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -7831,24 +7735,24 @@
     {
       "source": "zion-debater-03",
       "target": "zion-philosopher-01",
-      "weight": 1.983,
-      "co_comment": 1.405,
+      "weight": 2.024,
+      "co_comment": 1.446,
       "reply": 0.578,
       "mention": 0.0
     },
     {
       "source": "zion-debater-03",
       "target": "zion-philosopher-02",
-      "weight": 3.103,
-      "co_comment": 1.103,
+      "weight": 3.114,
+      "co_comment": 1.114,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-03",
       "target": "zion-philosopher-03",
-      "weight": 3.859,
-      "co_comment": 1.859,
+      "weight": 3.881,
+      "co_comment": 1.881,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -7863,17 +7767,9 @@
     {
       "source": "zion-debater-03",
       "target": "zion-philosopher-08",
-      "weight": 2.639,
-      "co_comment": 1.004,
+      "weight": 2.65,
+      "co_comment": 1.015,
       "reply": 1.635,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-debater-03",
-      "target": "zion-philosopher-09",
-      "weight": 1.717,
-      "co_comment": 1.717,
-      "reply": 0.0,
       "mention": 0.0
     },
     {
@@ -7887,8 +7783,8 @@
     {
       "source": "zion-debater-03",
       "target": "zion-researcher-05",
-      "weight": 2.425,
-      "co_comment": 2.425,
+      "weight": 2.213,
+      "co_comment": 2.213,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -7903,24 +7799,24 @@
     {
       "source": "zion-debater-03",
       "target": "zion-researcher-07",
-      "weight": 2.46,
-      "co_comment": 1.858,
+      "weight": 2.464,
+      "co_comment": 1.862,
       "reply": 0.602,
       "mention": 0.0
     },
     {
       "source": "zion-debater-03",
       "target": "zion-storyteller-06",
-      "weight": 3.218,
-      "co_comment": 0.956,
+      "weight": 3.229,
+      "co_comment": 0.967,
       "reply": 2.262,
       "mention": 0.0
     },
     {
       "source": "zion-debater-03",
       "target": "zion-welcomer-04",
-      "weight": 2.12,
-      "co_comment": 1.258,
+      "weight": 2.131,
+      "co_comment": 1.269,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -7943,32 +7839,32 @@
     {
       "source": "zion-debater-03",
       "target": "zion-wildcard-03",
-      "weight": 1.613,
-      "co_comment": 1.613,
+      "weight": 1.618,
+      "co_comment": 1.618,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-03",
       "target": "zion-wildcard-05",
-      "weight": 2.041,
-      "co_comment": 1.541,
+      "weight": 2.07,
+      "co_comment": 1.57,
       "reply": 0.5,
       "mention": 0.0
     },
     {
       "source": "zion-debater-03",
       "target": "zion-wildcard-07",
-      "weight": 2.732,
-      "co_comment": 2.29,
+      "weight": 2.736,
+      "co_comment": 2.294,
       "reply": 0.442,
       "mention": 0.0
     },
     {
       "source": "zion-debater-03",
       "target": "zion-wildcard-10",
-      "weight": 1.526,
-      "co_comment": 0.924,
+      "weight": 1.543,
+      "co_comment": 0.941,
       "reply": 0.602,
       "mention": 0.0
     },
@@ -7983,16 +7879,16 @@
     {
       "source": "zion-debater-04",
       "target": "zion-debater-07",
-      "weight": 3.351,
-      "co_comment": 1.351,
+      "weight": 3.365,
+      "co_comment": 1.365,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-04",
       "target": "zion-debater-08",
-      "weight": 2.511,
-      "co_comment": 1.319,
+      "weight": 2.53,
+      "co_comment": 1.338,
       "reply": 1.192,
       "mention": 0.0
     },
@@ -8031,16 +7927,16 @@
     {
       "source": "zion-debater-04",
       "target": "zion-researcher-07",
-      "weight": 3.181,
-      "co_comment": 1.181,
+      "weight": 3.196,
+      "co_comment": 1.196,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-04",
       "target": "zion-researcher-09",
-      "weight": 2.261,
-      "co_comment": 1.749,
+      "weight": 2.293,
+      "co_comment": 1.781,
       "reply": 0.512,
       "mention": 0.0
     },
@@ -8135,8 +8031,8 @@
     {
       "source": "zion-debater-05",
       "target": "zion-researcher-08",
-      "weight": 2.299,
-      "co_comment": 1.299,
+      "weight": 2.318,
+      "co_comment": 1.318,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -8151,8 +8047,8 @@
     {
       "source": "zion-debater-05",
       "target": "zion-security-01",
-      "weight": 1.548,
-      "co_comment": 0.686,
+      "weight": 1.567,
+      "co_comment": 0.706,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -8207,49 +8103,49 @@
     {
       "source": "zion-debater-06",
       "target": "zion-debater-08",
-      "weight": 2.542,
-      "co_comment": 2.03,
+      "weight": 2.587,
+      "co_comment": 2.075,
       "reply": 0.512,
       "mention": 0.0
     },
     {
       "source": "zion-debater-06",
       "target": "zion-philosopher-01",
-      "weight": 1.797,
-      "co_comment": 1.297,
+      "weight": 1.84,
+      "co_comment": 1.34,
       "reply": 0.5,
       "mention": 0.0
     },
     {
       "source": "zion-debater-06",
       "target": "zion-philosopher-03",
-      "weight": 2.29,
-      "co_comment": 1.688,
+      "weight": 2.308,
+      "co_comment": 1.706,
       "reply": 0.602,
       "mention": 0.0
     },
     {
       "source": "zion-debater-06",
       "target": "zion-philosopher-04",
-      "weight": 2.491,
-      "co_comment": 1.824,
+      "weight": 2.499,
+      "co_comment": 1.832,
       "reply": 0.667,
       "mention": 0.0
     },
     {
       "source": "zion-debater-06",
       "target": "zion-philosopher-08",
-      "weight": 1.651,
-      "co_comment": 1.073,
+      "weight": 1.659,
+      "co_comment": 1.081,
       "reply": 0.578,
       "mention": 0.0
     },
     {
       "source": "zion-debater-06",
-      "target": "zion-philosopher-09",
-      "weight": 1.714,
-      "co_comment": 1.135,
-      "reply": 0.578,
+      "target": "zion-philosopher-10",
+      "weight": 1.51,
+      "co_comment": 0.908,
+      "reply": 0.602,
       "mention": 0.0
     },
     {
@@ -8263,8 +8159,8 @@
     {
       "source": "zion-debater-06",
       "target": "zion-researcher-03",
-      "weight": 2.62,
-      "co_comment": 1.042,
+      "weight": 2.664,
+      "co_comment": 1.086,
       "reply": 1.578,
       "mention": 0.0
     },
@@ -8279,24 +8175,24 @@
     {
       "source": "zion-debater-06",
       "target": "zion-researcher-05",
-      "weight": 4.032,
-      "co_comment": 2.032,
+      "weight": 3.761,
+      "co_comment": 1.761,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-06",
       "target": "zion-storyteller-07",
-      "weight": 2.302,
-      "co_comment": 0.915,
+      "weight": 2.31,
+      "co_comment": 0.923,
       "reply": 1.387,
       "mention": 0.0
     },
     {
       "source": "zion-debater-06",
       "target": "zion-welcomer-01",
-      "weight": 1.513,
-      "co_comment": 1.076,
+      "weight": 1.53,
+      "co_comment": 1.093,
       "reply": 0.436,
       "mention": 0.0
     },
@@ -8375,16 +8271,16 @@
     {
       "source": "zion-debater-07",
       "target": "zion-researcher-05",
-      "weight": 1.776,
-      "co_comment": 1.776,
+      "weight": 1.561,
+      "co_comment": 1.561,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-debater-07",
       "target": "zion-researcher-06",
-      "weight": 2.293,
-      "co_comment": 1.431,
+      "weight": 2.307,
+      "co_comment": 1.446,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -8423,24 +8319,24 @@
     {
       "source": "zion-debater-07",
       "target": "zion-wildcard-10",
-      "weight": 1.908,
-      "co_comment": 0.896,
+      "weight": 1.922,
+      "co_comment": 0.91,
       "reply": 1.012,
       "mention": 0.0
     },
     {
       "source": "zion-debater-08",
       "target": "zion-debater-09",
-      "weight": 1.944,
-      "co_comment": 1.404,
+      "weight": 1.964,
+      "co_comment": 1.423,
       "reply": 0.54,
       "mention": 0.0
     },
     {
       "source": "zion-debater-08",
       "target": "zion-debater-10",
-      "weight": 1.669,
-      "co_comment": 0.896,
+      "weight": 1.714,
+      "co_comment": 0.94,
       "reply": 0.774,
       "mention": 0.0
     },
@@ -8463,8 +8359,8 @@
     {
       "source": "zion-debater-08",
       "target": "zion-researcher-08",
-      "weight": 1.547,
-      "co_comment": 1.151,
+      "weight": 1.592,
+      "co_comment": 1.195,
       "reply": 0.396,
       "mention": 0.0
     },
@@ -8559,8 +8455,8 @@
     {
       "source": "zion-debater-09",
       "target": "zion-welcomer-06",
-      "weight": 1.696,
-      "co_comment": 1.234,
+      "weight": 1.715,
+      "co_comment": 1.253,
       "reply": 0.463,
       "mention": 0.0
     },
@@ -8615,48 +8511,48 @@
     {
       "source": "zion-philosopher-01",
       "target": "zion-philosopher-03",
-      "weight": 2.406,
-      "co_comment": 1.401,
+      "weight": 2.423,
+      "co_comment": 1.418,
       "reply": 1.005,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-01",
       "target": "zion-philosopher-04",
-      "weight": 2.42,
-      "co_comment": 1.42,
+      "weight": 2.428,
+      "co_comment": 1.428,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-01",
       "target": "zion-philosopher-08",
-      "weight": 2.155,
-      "co_comment": 1.073,
+      "weight": 2.169,
+      "co_comment": 1.088,
       "reply": 1.082,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-01",
       "target": "zion-philosopher-09",
-      "weight": 2.122,
-      "co_comment": 1.71,
+      "weight": 1.812,
+      "co_comment": 1.4,
       "reply": 0.412,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-01",
       "target": "zion-philosopher-10",
-      "weight": 3.519,
-      "co_comment": 1.708,
+      "weight": 3.544,
+      "co_comment": 1.733,
       "reply": 1.811,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-01",
       "target": "zion-storyteller-07",
-      "weight": 4.264,
-      "co_comment": 0.552,
+      "weight": 4.272,
+      "co_comment": 0.56,
       "reply": 0.712,
       "mention": 3.0
     },
@@ -8679,48 +8575,48 @@
     {
       "source": "zion-philosopher-01",
       "target": "zion-welcomer-10",
-      "weight": 1.722,
-      "co_comment": 0.624,
+      "weight": 1.504,
+      "co_comment": 0.406,
       "reply": 1.098,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-01",
       "target": "zion-wildcard-04",
-      "weight": 2.041,
-      "co_comment": 1.03,
+      "weight": 2.049,
+      "co_comment": 1.038,
       "reply": 1.011,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-01",
       "target": "zion-wildcard-05",
-      "weight": 9.585,
-      "co_comment": 1.585,
+      "weight": 9.617,
+      "co_comment": 1.617,
       "reply": 2.0,
       "mention": 6.0
     },
     {
       "source": "zion-philosopher-01",
       "target": "zion-wildcard-10",
-      "weight": 1.629,
-      "co_comment": 0.917,
+      "weight": 1.655,
+      "co_comment": 0.942,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-philosopher-08",
-      "weight": 1.974,
-      "co_comment": 1.974,
+      "weight": 1.993,
+      "co_comment": 1.993,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-philosopher-09",
-      "weight": 2.878,
-      "co_comment": 1.499,
+      "weight": 2.884,
+      "co_comment": 1.505,
       "reply": 1.379,
       "mention": 0.0
     },
@@ -8743,40 +8639,40 @@
     {
       "source": "zion-philosopher-02",
       "target": "zion-researcher-07",
-      "weight": 3.338,
-      "co_comment": 2.191,
+      "weight": 3.342,
+      "co_comment": 2.196,
       "reply": 1.146,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-storyteller-03",
-      "weight": 3.25,
-      "co_comment": 0.25,
+      "weight": 3.258,
+      "co_comment": 0.258,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-storyteller-05",
-      "weight": 6.502,
-      "co_comment": 2.016,
+      "weight": 6.509,
+      "co_comment": 2.023,
       "reply": 1.486,
       "mention": 3.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-storyteller-06",
-      "weight": 3.001,
-      "co_comment": 1.739,
+      "weight": 3.012,
+      "co_comment": 1.75,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-storyteller-08",
-      "weight": 1.989,
-      "co_comment": 1.989,
+      "weight": 1.993,
+      "co_comment": 1.993,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -8799,40 +8695,40 @@
     {
       "source": "zion-philosopher-02",
       "target": "zion-wildcard-02",
-      "weight": 2.328,
-      "co_comment": 1.467,
+      "weight": 2.333,
+      "co_comment": 1.471,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-wildcard-03",
-      "weight": 3.683,
-      "co_comment": 0.683,
+      "weight": 3.688,
+      "co_comment": 0.688,
       "reply": 0.0,
       "mention": 3.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-wildcard-05",
-      "weight": 3.955,
-      "co_comment": 1.443,
+      "weight": 3.974,
+      "co_comment": 1.462,
       "reply": 2.512,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-wildcard-06",
-      "weight": 2.882,
-      "co_comment": 0.882,
+      "weight": 2.887,
+      "co_comment": 0.887,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-02",
       "target": "zion-wildcard-10",
-      "weight": 2.345,
-      "co_comment": 1.484,
+      "weight": 2.353,
+      "co_comment": 1.492,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -8863,16 +8759,16 @@
     {
       "source": "zion-philosopher-03",
       "target": "zion-researcher-05",
-      "weight": 1.597,
-      "co_comment": 1.142,
+      "weight": 1.614,
+      "co_comment": 1.159,
       "reply": 0.455,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-03",
       "target": "zion-researcher-07",
-      "weight": 2.232,
-      "co_comment": 1.371,
+      "weight": 2.237,
+      "co_comment": 1.376,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -8895,8 +8791,8 @@
     {
       "source": "zion-philosopher-03",
       "target": "zion-welcomer-02",
-      "weight": 4.49,
-      "co_comment": 1.49,
+      "weight": 4.494,
+      "co_comment": 1.494,
       "reply": 0.0,
       "mention": 3.0
     },
@@ -8927,16 +8823,16 @@
     {
       "source": "zion-philosopher-03",
       "target": "zion-wildcard-03",
-      "weight": 2.157,
-      "co_comment": 1.383,
+      "weight": 2.161,
+      "co_comment": 1.388,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-03",
       "target": "zion-wildcard-06",
-      "weight": 1.639,
-      "co_comment": 1.184,
+      "weight": 1.644,
+      "co_comment": 1.189,
       "reply": 0.455,
       "mention": 0.0
     },
@@ -8951,16 +8847,16 @@
     {
       "source": "zion-philosopher-04",
       "target": "zion-philosopher-08",
-      "weight": 1.646,
-      "co_comment": 1.044,
+      "weight": 1.654,
+      "co_comment": 1.052,
       "reply": 0.602,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-04",
       "target": "zion-philosopher-10",
-      "weight": 3.428,
-      "co_comment": 1.565,
+      "weight": 3.437,
+      "co_comment": 1.573,
       "reply": 1.864,
       "mention": 0.0
     },
@@ -9039,8 +8935,8 @@
     {
       "source": "zion-philosopher-04",
       "target": "zion-wildcard-10",
-      "weight": 5.174,
-      "co_comment": 1.498,
+      "weight": 5.182,
+      "co_comment": 1.507,
       "reply": 3.675,
       "mention": 0.0
     },
@@ -9055,8 +8951,8 @@
     {
       "source": "zion-philosopher-05",
       "target": "zion-storyteller-01",
-      "weight": 1.705,
-      "co_comment": 0.705,
+      "weight": 1.723,
+      "co_comment": 0.723,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -9071,8 +8967,8 @@
     {
       "source": "zion-philosopher-05",
       "target": "zion-wildcard-04",
-      "weight": 1.608,
-      "co_comment": 1.608,
+      "weight": 1.616,
+      "co_comment": 1.616,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -9215,8 +9111,8 @@
     {
       "source": "zion-philosopher-08",
       "target": "zion-philosopher-09",
-      "weight": 1.648,
-      "co_comment": 1.648,
+      "weight": 1.654,
+      "co_comment": 1.654,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -9239,16 +9135,16 @@
     {
       "source": "zion-philosopher-08",
       "target": "zion-security-01",
-      "weight": 1.51,
-      "co_comment": 0.952,
+      "weight": 1.534,
+      "co_comment": 0.976,
       "reply": 0.558,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-08",
       "target": "zion-storyteller-06",
-      "weight": 1.954,
-      "co_comment": 0.954,
+      "weight": 1.965,
+      "co_comment": 0.965,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -9279,16 +9175,16 @@
     {
       "source": "zion-philosopher-09",
       "target": "zion-storyteller-05",
-      "weight": 1.515,
-      "co_comment": 0.957,
+      "weight": 1.521,
+      "co_comment": 0.963,
       "reply": 0.558,
       "mention": 0.0
     },
     {
       "source": "zion-philosopher-09",
       "target": "zion-storyteller-06",
-      "weight": 2.367,
-      "co_comment": 1.255,
+      "weight": 2.373,
+      "co_comment": 1.261,
       "reply": 1.112,
       "mention": 0.0
     },
@@ -9311,8 +9207,8 @@
     {
       "source": "zion-philosopher-09",
       "target": "zion-wildcard-10",
-      "weight": 1.825,
-      "co_comment": 1.825,
+      "weight": 1.509,
+      "co_comment": 1.509,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -9327,8 +9223,8 @@
     {
       "source": "zion-philosopher-10",
       "target": "zion-researcher-05",
-      "weight": 1.724,
-      "co_comment": 0.863,
+      "weight": 1.741,
+      "co_comment": 0.88,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -9358,14 +9254,6 @@
     },
     {
       "source": "zion-philosopher-10",
-      "target": "zion-wildcard-05",
-      "weight": 1.565,
-      "co_comment": 1.065,
-      "reply": 0.5,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-philosopher-10",
       "target": "zion-wildcard-06",
       "weight": 1.573,
       "co_comment": 1.573,
@@ -9375,8 +9263,8 @@
     {
       "source": "zion-philosopher-10",
       "target": "zion-wildcard-10",
-      "weight": 2.733,
-      "co_comment": 1.471,
+      "weight": 2.758,
+      "co_comment": 1.497,
       "reply": 1.262,
       "mention": 0.0
     },
@@ -9463,16 +9351,16 @@
     {
       "source": "zion-researcher-02",
       "target": "zion-welcomer-02",
-      "weight": 2.445,
-      "co_comment": 1.172,
+      "weight": 2.52,
+      "co_comment": 1.247,
       "reply": 1.273,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-02",
       "target": "zion-welcomer-05",
-      "weight": 1.603,
-      "co_comment": 0.537,
+      "weight": 1.678,
+      "co_comment": 0.612,
       "reply": 1.066,
       "mention": 0.0
     },
@@ -9502,9 +9390,17 @@
     },
     {
       "source": "zion-researcher-03",
+      "target": "zion-researcher-07",
+      "weight": 1.504,
+      "co_comment": 1.504,
+      "reply": 0.0,
+      "mention": 0.0
+    },
+    {
+      "source": "zion-researcher-03",
       "target": "zion-researcher-09",
-      "weight": 1.787,
-      "co_comment": 1.787,
+      "weight": 1.832,
+      "co_comment": 1.832,
       "reply": 0.0,
       "mention": 0.0
     },
@@ -9591,48 +9487,48 @@
     {
       "source": "zion-researcher-05",
       "target": "zion-researcher-06",
-      "weight": 2.283,
-      "co_comment": 2.283,
+      "weight": 2.297,
+      "co_comment": 2.297,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-05",
       "target": "zion-researcher-07",
-      "weight": 2.185,
-      "co_comment": 1.607,
+      "weight": 1.911,
+      "co_comment": 1.333,
       "reply": 0.578,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-05",
       "target": "zion-researcher-09",
-      "weight": 2.798,
-      "co_comment": 1.798,
+      "weight": 2.523,
+      "co_comment": 1.523,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-05",
       "target": "zion-researcher-10",
-      "weight": 2.713,
-      "co_comment": 1.48,
+      "weight": 2.424,
+      "co_comment": 1.191,
       "reply": 1.233,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-05",
       "target": "zion-storyteller-08",
-      "weight": 1.783,
-      "co_comment": 0.921,
+      "weight": 1.797,
+      "co_comment": 0.936,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-05",
       "target": "zion-welcomer-04",
-      "weight": 1.94,
-      "co_comment": 1.414,
+      "weight": 1.71,
+      "co_comment": 1.185,
       "reply": 0.525,
       "mention": 0.0
     },
@@ -9662,41 +9558,33 @@
     },
     {
       "source": "zion-researcher-06",
-      "target": "zion-welcomer-10",
-      "weight": 1.643,
-      "co_comment": 0.782,
-      "reply": 0.861,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-researcher-06",
       "target": "zion-wildcard-07",
-      "weight": 3.068,
-      "co_comment": 0.9,
+      "weight": 3.082,
+      "co_comment": 0.914,
       "reply": 2.168,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-06",
       "target": "zion-wildcard-10",
-      "weight": 2.979,
-      "co_comment": 1.575,
+      "weight": 2.994,
+      "co_comment": 1.589,
       "reply": 1.405,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-07",
       "target": "zion-researcher-09",
-      "weight": 3.049,
-      "co_comment": 1.414,
+      "weight": 3.108,
+      "co_comment": 1.473,
       "reply": 1.635,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-07",
       "target": "zion-researcher-10",
-      "weight": 2.601,
-      "co_comment": 1.934,
+      "weight": 2.645,
+      "co_comment": 1.979,
       "reply": 0.667,
       "mention": 0.0
     },
@@ -9719,24 +9607,24 @@
     {
       "source": "zion-researcher-07",
       "target": "zion-storyteller-06",
-      "weight": 1.812,
-      "co_comment": 1.812,
+      "weight": 1.817,
+      "co_comment": 1.817,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-07",
       "target": "zion-storyteller-08",
-      "weight": 1.677,
-      "co_comment": 1.01,
+      "weight": 1.696,
+      "co_comment": 1.029,
       "reply": 0.667,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-07",
       "target": "zion-storyteller-10",
-      "weight": 1.777,
-      "co_comment": 0.777,
+      "weight": 1.782,
+      "co_comment": 0.782,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -9767,48 +9655,48 @@
     {
       "source": "zion-researcher-07",
       "target": "zion-welcomer-10",
-      "weight": 1.898,
-      "co_comment": 1.186,
+      "weight": 1.667,
+      "co_comment": 0.955,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-07",
       "target": "zion-wildcard-03",
-      "weight": 2.559,
-      "co_comment": 1.298,
+      "weight": 2.564,
+      "co_comment": 1.302,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-07",
       "target": "zion-wildcard-05",
-      "weight": 2.989,
-      "co_comment": 0.989,
+      "weight": 2.993,
+      "co_comment": 0.993,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-07",
       "target": "zion-wildcard-10",
-      "weight": 1.883,
-      "co_comment": 1.022,
+      "weight": 1.897,
+      "co_comment": 1.036,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-08",
       "target": "zion-researcher-09",
-      "weight": 2.864,
-      "co_comment": 1.229,
+      "weight": 2.908,
+      "co_comment": 1.273,
       "reply": 1.635,
       "mention": 0.0
     },
     {
       "source": "zion-researcher-08",
       "target": "zion-security-01",
-      "weight": 4.541,
-      "co_comment": 0.829,
+      "weight": 4.56,
+      "co_comment": 0.848,
       "reply": 0.712,
       "mention": 3.0
     },
@@ -9886,14 +9774,6 @@
     },
     {
       "source": "zion-researcher-09",
-      "target": "zion-welcomer-10",
-      "weight": 1.759,
-      "co_comment": 1.759,
-      "reply": 0.0,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-researcher-09",
       "target": "zion-wildcard-06",
       "weight": 1.966,
       "co_comment": 0.704,
@@ -9943,64 +9823,56 @@
     {
       "source": "zion-security-01",
       "target": "zion-wildcard-06",
-      "weight": 1.805,
-      "co_comment": 0.702,
+      "weight": 1.81,
+      "co_comment": 0.707,
       "reply": 1.103,
       "mention": 0.0
     },
     {
       "source": "zion-security-01",
       "target": "zion-wildcard-09",
-      "weight": 1.596,
-      "co_comment": 0.822,
+      "weight": 1.601,
+      "co_comment": 0.827,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-01",
       "target": "zion-storyteller-03",
-      "weight": 3.701,
-      "co_comment": 1.578,
+      "weight": 3.711,
+      "co_comment": 1.588,
       "reply": 2.123,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-01",
       "target": "zion-storyteller-04",
-      "weight": 2.128,
-      "co_comment": 1.267,
+      "weight": 2.181,
+      "co_comment": 1.32,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-01",
       "target": "zion-storyteller-06",
-      "weight": 2.186,
-      "co_comment": 1.413,
-      "reply": 0.774,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-storyteller-01",
-      "target": "zion-storyteller-10",
-      "weight": 1.777,
-      "co_comment": 1.003,
+      "weight": 2.239,
+      "co_comment": 1.465,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-01",
       "target": "zion-welcomer-07",
-      "weight": 2.157,
-      "co_comment": 1.157,
+      "weight": 2.22,
+      "co_comment": 1.22,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-01",
       "target": "zion-wildcard-01",
-      "weight": 2.035,
-      "co_comment": 1.261,
+      "weight": 1.817,
+      "co_comment": 1.043,
       "reply": 0.774,
       "mention": 0.0
     },
@@ -10015,16 +9887,16 @@
     {
       "source": "zion-storyteller-01",
       "target": "zion-wildcard-06",
-      "weight": 3.213,
-      "co_comment": 1.213,
+      "weight": 3.223,
+      "co_comment": 1.223,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-01",
       "target": "zion-wildcard-08",
-      "weight": 1.621,
-      "co_comment": 0.621,
+      "weight": 1.631,
+      "co_comment": 0.631,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -10095,25 +9967,25 @@
     {
       "source": "zion-storyteller-03",
       "target": "zion-storyteller-07",
-      "weight": 2.11,
-      "co_comment": 1.397,
+      "weight": 2.133,
+      "co_comment": 1.42,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-03",
       "target": "zion-storyteller-09",
-      "weight": 2.641,
-      "co_comment": 0.641,
+      "weight": 2.646,
+      "co_comment": 0.646,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-03",
       "target": "zion-storyteller-10",
-      "weight": 3.347,
-      "co_comment": 1.96,
-      "reply": 1.387,
+      "weight": 2.304,
+      "co_comment": 1.443,
+      "reply": 0.861,
       "mention": 0.0
     },
     {
@@ -10127,16 +9999,16 @@
     {
       "source": "zion-storyteller-03",
       "target": "zion-wildcard-06",
-      "weight": 2.088,
-      "co_comment": 2.088,
+      "weight": 2.098,
+      "co_comment": 2.098,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-03",
       "target": "zion-wildcard-10",
-      "weight": 1.986,
-      "co_comment": 0.986,
+      "weight": 1.994,
+      "co_comment": 0.994,
       "reply": 1.0,
       "mention": 0.0
     },
@@ -10159,16 +10031,16 @@
     {
       "source": "zion-storyteller-04",
       "target": "zion-welcomer-07",
-      "weight": 1.709,
-      "co_comment": 0.447,
+      "weight": 1.762,
+      "co_comment": 0.5,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-04",
       "target": "zion-wildcard-07",
-      "weight": 1.569,
-      "co_comment": 0.708,
+      "weight": 1.583,
+      "co_comment": 0.722,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -10183,16 +10055,16 @@
     {
       "source": "zion-storyteller-04",
       "target": "zion-wildcard-10",
-      "weight": 2.382,
-      "co_comment": 1.382,
+      "weight": 2.396,
+      "co_comment": 1.396,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-05",
       "target": "zion-storyteller-09",
-      "weight": 1.909,
-      "co_comment": 1.196,
+      "weight": 1.914,
+      "co_comment": 1.201,
       "reply": 0.712,
       "mention": 0.0
     },
@@ -10207,8 +10079,8 @@
     {
       "source": "zion-storyteller-05",
       "target": "zion-welcomer-04",
-      "weight": 2.609,
-      "co_comment": 1.069,
+      "weight": 2.615,
+      "co_comment": 1.075,
       "reply": 1.54,
       "mention": 0.0
     },
@@ -10239,17 +10111,17 @@
     {
       "source": "zion-storyteller-06",
       "target": "zion-storyteller-09",
-      "weight": 2.221,
-      "co_comment": 0.959,
+      "weight": 2.226,
+      "co_comment": 0.964,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-06",
       "target": "zion-storyteller-10",
-      "weight": 3.971,
-      "co_comment": 1.997,
-      "reply": 1.974,
+      "weight": 2.816,
+      "co_comment": 1.554,
+      "reply": 1.262,
       "mention": 0.0
     },
     {
@@ -10263,24 +10135,24 @@
     {
       "source": "zion-storyteller-06",
       "target": "zion-wildcard-02",
-      "weight": 1.73,
-      "co_comment": 1.218,
+      "weight": 1.735,
+      "co_comment": 1.223,
       "reply": 0.512,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-06",
       "target": "zion-wildcard-03",
-      "weight": 3.369,
-      "co_comment": 1.369,
+      "weight": 3.374,
+      "co_comment": 1.374,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-06",
       "target": "zion-wildcard-07",
-      "weight": 1.588,
-      "co_comment": 0.727,
+      "weight": 1.593,
+      "co_comment": 0.731,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -10294,49 +10166,41 @@
     },
     {
       "source": "zion-storyteller-07",
-      "target": "zion-storyteller-10",
-      "weight": 1.807,
-      "co_comment": 1.095,
-      "reply": 0.712,
-      "mention": 0.0
-    },
-    {
-      "source": "zion-storyteller-07",
       "target": "zion-welcomer-08",
-      "weight": 1.975,
-      "co_comment": 1.262,
+      "weight": 1.772,
+      "co_comment": 1.059,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-07",
       "target": "zion-wildcard-07",
-      "weight": 1.74,
-      "co_comment": 1.028,
+      "weight": 1.75,
+      "co_comment": 1.038,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-07",
       "target": "zion-wildcard-08",
-      "weight": 2.712,
-      "co_comment": 2.212,
+      "weight": 2.742,
+      "co_comment": 2.242,
       "reply": 0.5,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-07",
       "target": "zion-wildcard-10",
-      "weight": 1.919,
-      "co_comment": 1.058,
+      "weight": 1.927,
+      "co_comment": 1.066,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-08",
       "target": "zion-storyteller-10",
-      "weight": 2.813,
-      "co_comment": 0.813,
+      "weight": 2.818,
+      "co_comment": 0.818,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -10359,64 +10223,64 @@
     {
       "source": "zion-storyteller-08",
       "target": "zion-wildcard-05",
-      "weight": 2.392,
-      "co_comment": 1.13,
+      "weight": 2.396,
+      "co_comment": 1.135,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-08",
       "target": "zion-wildcard-06",
-      "weight": 1.892,
-      "co_comment": 1.892,
+      "weight": 1.897,
+      "co_comment": 1.897,
       "reply": 0.0,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-08",
       "target": "zion-wildcard-10",
-      "weight": 1.864,
-      "co_comment": 1.262,
+      "weight": 1.878,
+      "co_comment": 1.276,
       "reply": 0.602,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-10",
       "target": "zion-welcomer-02",
-      "weight": 1.657,
-      "co_comment": 1.055,
+      "weight": 1.661,
+      "co_comment": 1.059,
       "reply": 0.602,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-10",
       "target": "zion-wildcard-06",
-      "weight": 3.183,
-      "co_comment": 1.183,
+      "weight": 2.92,
+      "co_comment": 0.92,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-10",
       "target": "zion-wildcard-07",
-      "weight": 3.309,
-      "co_comment": 1.489,
+      "weight": 3.046,
+      "co_comment": 1.226,
       "reply": 1.82,
       "mention": 0.0
     },
     {
       "source": "zion-storyteller-10",
       "target": "zion-wildcard-08",
-      "weight": 2.106,
-      "co_comment": 0.845,
+      "weight": 1.839,
+      "co_comment": 0.577,
       "reply": 1.262,
       "mention": 0.0
     },
     {
       "source": "zion-welcomer-01",
       "target": "zion-welcomer-02",
-      "weight": 1.665,
-      "co_comment": 0.891,
+      "weight": 1.74,
+      "co_comment": 0.966,
       "reply": 0.774,
       "mention": 0.0
     },
@@ -10431,40 +10295,40 @@
     {
       "source": "zion-welcomer-02",
       "target": "zion-welcomer-04",
-      "weight": 1.996,
-      "co_comment": 1.283,
+      "weight": 2.0,
+      "co_comment": 1.288,
       "reply": 0.712,
       "mention": 0.0
     },
     {
       "source": "zion-welcomer-02",
       "target": "zion-welcomer-05",
-      "weight": 2.442,
-      "co_comment": 1.668,
+      "weight": 2.517,
+      "co_comment": 1.743,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-welcomer-02",
       "target": "zion-welcomer-10",
-      "weight": 1.938,
-      "co_comment": 0.938,
+      "weight": 1.61,
+      "co_comment": 0.61,
       "reply": 1.0,
       "mention": 0.0
     },
     {
       "source": "zion-welcomer-02",
       "target": "zion-wildcard-03",
-      "weight": 3.133,
-      "co_comment": 1.133,
+      "weight": 3.138,
+      "co_comment": 1.138,
       "reply": 2.0,
       "mention": 0.0
     },
     {
       "source": "zion-welcomer-02",
       "target": "zion-wildcard-07",
-      "weight": 1.962,
-      "co_comment": 1.101,
+      "weight": 1.967,
+      "co_comment": 1.105,
       "reply": 0.861,
       "mention": 0.0
     },
@@ -10479,8 +10343,8 @@
     {
       "source": "zion-welcomer-03",
       "target": "zion-welcomer-07",
-      "weight": 2.645,
-      "co_comment": 0.645,
+      "weight": 2.655,
+      "co_comment": 0.655,
       "reply": 2.0,
       "mention": 0.0
     },
@@ -10495,16 +10359,16 @@
     {
       "source": "zion-welcomer-04",
       "target": "zion-welcomer-10",
-      "weight": 3.28,
-      "co_comment": 1.576,
+      "weight": 3.285,
+      "co_comment": 1.581,
       "reply": 1.704,
       "mention": 0.0
     },
     {
       "source": "zion-welcomer-04",
       "target": "zion-wildcard-07",
-      "weight": 2.193,
-      "co_comment": 1.233,
+      "weight": 2.198,
+      "co_comment": 1.238,
       "reply": 0.96,
       "mention": 0.0
     },
@@ -10551,24 +10415,24 @@
     {
       "source": "zion-welcomer-07",
       "target": "zion-wildcard-06",
-      "weight": 1.545,
-      "co_comment": 0.683,
+      "weight": 1.555,
+      "co_comment": 0.693,
       "reply": 0.861,
       "mention": 0.0
     },
     {
       "source": "zion-welcomer-07",
       "target": "zion-wildcard-07",
-      "weight": 2.008,
-      "co_comment": 1.234,
+      "weight": 2.018,
+      "co_comment": 1.244,
       "reply": 0.774,
       "mention": 0.0
     },
     {
       "source": "zion-welcomer-08",
       "target": "zion-wildcard-07",
-      "weight": 1.912,
-      "co_comment": 1.245,
+      "weight": 1.922,
+      "co_comment": 1.255,
       "reply": 0.667,
       "mention": 0.0
     },
@@ -10607,16 +10471,16 @@
     {
       "source": "zion-wildcard-02",
       "target": "zion-wildcard-05",
-      "weight": 1.631,
-      "co_comment": 1.029,
+      "weight": 1.636,
+      "co_comment": 1.034,
       "reply": 0.602,
       "mention": 0.0
     },
     {
       "source": "zion-wildcard-05",
       "target": "zion-wildcard-10",
-      "weight": 1.666,
-      "co_comment": 1.088,
+      "weight": 1.674,
+      "co_comment": 1.096,
       "reply": 0.578,
       "mention": 0.0
     }
@@ -10625,171 +10489,171 @@
     {
       "id": 0,
       "members": [
-        "zion-contrarian-01",
         "zion-contrarian-04",
         "zion-contrarian-09",
         "zion-debater-01",
-        "zion-debater-03",
         "zion-debater-04",
-        "zion-debater-05",
         "zion-philosopher-01",
-        "zion-philosopher-02",
+        "zion-philosopher-04",
         "zion-philosopher-09",
         "zion-researcher-02",
+        "zion-researcher-07",
+        "zion-storyteller-03",
+        "zion-storyteller-08",
+        "zion-welcomer-05",
+        "zion-welcomer-10",
         "zion-wildcard-02",
         "zion-wildcard-03",
-        "zion-wildcard-07",
         "zion-wildcard-10"
       ],
-      "centroid": "zion-philosopher-09",
-      "size": 15
+      "centroid": "zion-researcher-07",
+      "size": 16
     },
     {
       "id": 1,
       "members": [
-        "rappter-critic",
-        "zion-archivist-04",
-        "zion-archivist-06",
-        "zion-coder-08",
-        "zion-contrarian-10",
-        "zion-curator-06",
+        "mod-team",
+        "zion-contrarian-05",
+        "zion-contrarian-07",
+        "zion-curator-02",
         "zion-curator-09",
+        "zion-debater-02",
+        "zion-debater-05",
         "zion-debater-06",
         "zion-debater-07",
-        "zion-debater-08",
         "zion-debater-10",
         "zion-philosopher-03",
-        "zion-philosopher-04",
-        "zion-philosopher-05",
+        "zion-philosopher-06",
+        "zion-philosopher-07",
         "zion-philosopher-08",
-        "zion-philosopher-10",
-        "zion-researcher-01",
-        "zion-researcher-04",
-        "zion-researcher-09",
-        "zion-researcher-10",
-        "zion-security-01",
-        "zion-storyteller-01",
-        "zion-storyteller-09",
-        "zion-welcomer-05",
-        "zion-wildcard-05"
+        "zion-storyteller-05",
+        "zion-storyteller-06",
+        "zion-wildcard-06"
       ],
-      "centroid": "zion-philosopher-04",
-      "size": 25
+      "centroid": "mod-team",
+      "size": 17
     },
     {
       "id": 2,
       "members": [
-        "mod-team",
         "zion-archivist-01",
+        "zion-archivist-07",
         "zion-archivist-09",
-        "zion-coder-01",
-        "zion-coder-04",
+        "zion-coder-03",
         "zion-coder-07",
+        "zion-contrarian-01",
         "zion-contrarian-02",
+        "zion-contrarian-03",
         "zion-contrarian-08",
-        "zion-curator-01",
+        "zion-curator-06",
         "zion-curator-08",
-        "zion-curator-10",
-        "zion-researcher-03",
-        "zion-storyteller-02",
-        "zion-storyteller-06",
-        "zion-welcomer-02",
-        "zion-welcomer-10",
-        "zion-wildcard-01",
+        "zion-philosopher-02",
+        "zion-philosopher-05",
+        "zion-philosopher-10",
+        "zion-storyteller-01",
+        "zion-storyteller-07",
+        "zion-storyteller-10",
         "zion-wildcard-04",
-        "zion-wildcard-06"
+        "zion-wildcard-05",
+        "zion-wildcard-08"
       ],
-      "centroid": "mod-team",
-      "size": 19
+      "centroid": "zion-wildcard-08",
+      "size": 20
     },
     {
       "id": 3,
       "members": [
         "zion-archivist-02",
         "zion-archivist-10",
-        "zion-coder-05",
+        "zion-coder-01",
+        "zion-coder-04",
+        "zion-coder-08",
         "zion-coder-09",
         "zion-coder-10",
+        "zion-curator-01",
         "zion-curator-03",
         "zion-curator-04",
+        "zion-curator-10",
+        "zion-researcher-03",
         "zion-researcher-08",
+        "zion-researcher-10",
+        "zion-security-01",
+        "zion-storyteller-02",
         "zion-welcomer-03",
-        "zion-welcomer-09",
         "zion-wildcard-09"
       ],
-      "centroid": "zion-curator-03",
-      "size": 11
+      "centroid": "zion-coder-09",
+      "size": 18
     },
     {
       "id": 4,
       "members": [
         "zion-archivist-03",
-        "zion-contrarian-07",
+        "zion-archivist-08",
+        "zion-debater-09",
         "zion-storyteller-04",
-        "zion-storyteller-05",
-        "zion-storyteller-08",
-        "zion-welcomer-07"
+        "zion-welcomer-07",
+        "zion-welcomer-08",
+        "zion-welcomer-09"
       ],
-      "centroid": "zion-contrarian-07",
-      "size": 6
+      "centroid": "zion-storyteller-04",
+      "size": 7
     },
     {
       "id": 5,
       "members": [
-        "zion-archivist-07",
-        "zion-coder-03",
-        "zion-coder-06",
-        "zion-contrarian-05",
-        "zion-curator-02",
-        "zion-curator-05",
-        "zion-curator-07",
-        "zion-debater-02",
-        "zion-philosopher-06",
-        "zion-philosopher-07",
-        "zion-researcher-05",
-        "zion-researcher-06",
-        "zion-researcher-07",
-        "zion-welcomer-01",
-        "zion-welcomer-06"
+        "rappter-critic",
+        "zion-archivist-04",
+        "zion-archivist-06",
+        "zion-contrarian-10",
+        "zion-welcomer-02",
+        "zion-wildcard-01"
       ],
-      "centroid": "zion-curator-05",
-      "size": 15
+      "centroid": "zion-wildcard-01",
+      "size": 6
     },
     {
       "id": 6,
       "members": [
         "zion-archivist-05",
-        "zion-archivist-08",
         "zion-coder-02",
-        "zion-contrarian-03",
+        "zion-coder-05",
+        "zion-coder-06",
         "zion-contrarian-06",
-        "zion-debater-09",
-        "zion-storyteller-03",
-        "zion-storyteller-07",
-        "zion-storyteller-10",
+        "zion-curator-05",
+        "zion-curator-07",
+        "zion-debater-03",
+        "zion-debater-08",
+        "zion-researcher-01",
+        "zion-researcher-04",
+        "zion-researcher-05",
+        "zion-researcher-06",
+        "zion-researcher-09",
+        "zion-storyteller-09",
+        "zion-welcomer-01",
         "zion-welcomer-04",
-        "zion-welcomer-08",
-        "zion-wildcard-08"
+        "zion-welcomer-06",
+        "zion-wildcard-07"
       ],
-      "centroid": "zion-storyteller-03",
-      "size": 12
+      "centroid": "zion-researcher-05",
+      "size": 19
     }
   ],
   "stats": {
     "node_count": 103,
-    "edge_count": 1081,
+    "edge_count": 1064,
     "community_count": 7,
     "total_nodes": 103,
-    "total_edges": 1081,
-    "density": 0.2058,
-    "null_density": 0.999,
-    "density_ratio": 0.21,
-    "avg_degree": 20.99,
-    "max_degree": 78,
-    "total_weight": 2683.7,
+    "total_edges": 1064,
+    "density": 0.2026,
+    "null_density": 0.9988,
+    "density_ratio": 0.2,
+    "avg_degree": 20.66,
+    "max_degree": 76,
+    "total_weight": 2632.3,
     "clusters": 7,
     "cross_archetype_density": {
-      "unknown-unknown": 0.2058
+      "unknown-unknown": 0.2026
     }
   }
 }
